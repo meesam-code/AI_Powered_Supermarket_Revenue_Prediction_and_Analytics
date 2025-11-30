@@ -1,3 +1,8 @@
+---
+title: AI Supermarket Revenue Prediction and Analytics
+sdk: streamlit
+app_file: app/app.py
+---
 
 **Smart Supermarket Revenue Predictor and Analysis**
 
