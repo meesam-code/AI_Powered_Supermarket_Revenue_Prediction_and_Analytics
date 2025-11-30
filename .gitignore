@@ -1,0 +1,23 @@
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment (future-proof, even if not created yet)
+venv/
+env/
+
+# VS Code settings
+.vscode/
+
+# Model files (optional, prevents huge files from being pushed)
+*.pkl
+*.joblib
+
+# Streamlit temp files
+.streamlit/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
