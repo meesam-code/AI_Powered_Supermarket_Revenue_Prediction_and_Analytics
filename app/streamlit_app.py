@@ -4,7 +4,8 @@ import numpy as np
 import plotly.express as px
 import requests
 import time
-from calendar import monthrange
+from calendar import monthrange    
+
 
  
 # PAGE CONFIGURE
