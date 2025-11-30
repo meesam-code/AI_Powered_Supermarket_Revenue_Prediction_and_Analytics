@@ -1,0 +1,1501 @@
+Item_Category,Store_Type,Outlet_Location_Type,Outlet_Size,Item_Weight,Item_MRP,Outlet_Sales
+Household,Supermarket Type2,Tier 3,Small,12.49,67.1,375
+Beverages,Supermarket Type2,Tier 2,Small,24.01,62.71,317
+Snacks,Grocery,Tier 3,Large,19.64,12.82,489
+Snacks,Supermarket Type1,Tier 1,Large,16.97,47.54,332
+Frozen,Supermarket Type2,Tier 1,Small,8.12,51.82,11
+Frozen,Grocery,Tier 3,Large,8.12,53.87,210
+Produce,Grocery,Tier 1,Medium,6.16,73.82,444
+Beverages,Supermarket Type2,Tier 1,Medium,22.32,68.7,379
+Dairy,Supermarket Type1,Tier 3,Medium,17.02,76.87,455
+Beverages,Supermarket Type1,Tier 1,Medium,19.16,94.14,118
+Snacks,Supermarket Type1,Tier 1,Medium,5.41,99.43,276
+Household,Supermarket Type1,Tier 2,Medium,24.4,88.99,87
+Beverages,Supermarket Type2,Tier 3,Medium,21.65,115.11,183
+Snacks,Supermarket Type2,Tier 2,Small,9.25,12.01,214
+Household,Supermarket Type1,Tier 3,Medium,8.64,31.54,468
+Household,Supermarket Type2,Tier 1,Small,8.67,10.83,332
+Snacks,Supermarket Type1,Tier 2,Medium,11.08,81.22,128
+Household,Supermarket Type1,Tier 2,Small,15.5,108.78,485
+Frozen,Supermarket Type1,Tier 2,Large,13.64,36.78,117
+Beverages,Supermarket Type1,Tier 1,Small,10.82,111.97,16
+Frozen,Grocery,Tier 3,Large,17.24,16.63,130
+Frozen,Grocery,Tier 1,Small,7.79,112.79,57
+Dairy,Supermarket Type2,Tier 3,Medium,10.84,48.68,335
+Beverages,Supermarket Type1,Tier 1,Small,12.33,21.16,393
+Produce,Supermarket Type1,Tier 1,Medium,14.12,63.45,287
+Dairy,Supermarket Type1,Tier 1,Large,20.7,38.25,144
+Beverages,Grocery,Tier 1,Medium,8.99,41.34,405
+Beverages,Grocery,Tier 3,Medium,15.28,43.8,394
+Produce,Supermarket Type1,Tier 3,Large,16.85,98.33,101
+Household,Supermarket Type2,Tier 3,Small,5.93,69.31,9
+Frozen,Grocery,Tier 1,Medium,17.15,44.24,61
+Frozen,Supermarket Type2,Tier 1,Medium,8.41,77.14,416
+Household,Supermarket Type1,Tier 1,Small,6.3,88.78,338
+Produce,Grocery,Tier 1,Large,23.98,39.99,73
+Dairy,Supermarket Type2,Tier 2,Small,24.31,55.49,122
+Household,Supermarket Type1,Tier 3,Medium,21.17,23.41,380
+Frozen,Supermarket Type2,Tier 1,Large,11.09,29.93,63
+Household,Supermarket Type1,Tier 2,Small,6.95,84.92,37
+Produce,Grocery,Tier 2,Large,18.68,29.96,322
+Household,Supermarket Type2,Tier 1,Small,13.8,67.77,54
+Frozen,Supermarket Type2,Tier 2,Medium,7.44,88.0,372
+Beverages,Grocery,Tier 2,Large,14.9,21.76,493
+Snacks,Supermarket Type1,Tier 1,Medium,5.69,72.4,23
+Snacks,Grocery,Tier 1,Medium,23.19,38.22,218
+Beverages,Supermarket Type1,Tier 1,Large,10.18,115.92,201
+Snacks,Supermarket Type2,Tier 1,Large,18.25,63.19,383
+Beverages,Supermarket Type2,Tier 1,Small,11.23,98.66,454
+Snacks,Supermarket Type2,Tier 3,Small,15.4,70.52,482
+Household,Supermarket Type2,Tier 1,Small,15.93,14.78,51
+Dairy,Supermarket Type1,Tier 2,Small,8.7,79.65,171
+Dairy,Supermarket Type2,Tier 2,Large,24.39,114.65,456
+Snacks,Supermarket Type1,Tier 2,Large,20.5,76.18,293
+Snacks,Grocery,Tier 1,Small,23.79,100.11,145
+Produce,Grocery,Tier 2,Large,22.9,107.26,88
+Household,Grocery,Tier 1,Medium,16.96,35.09,186
+Household,Supermarket Type2,Tier 3,Small,23.44,33.32,395
+Snacks,Grocery,Tier 2,Medium,6.77,77.21,83
+Frozen,Supermarket Type1,Tier 2,Small,8.92,55.21,219
+Beverages,Supermarket Type1,Tier 1,Medium,5.9,102.38,18
+Dairy,Supermarket Type2,Tier 2,Small,11.51,109.0,219
+Produce,Supermarket Type1,Tier 1,Large,12.77,48.88,407
+Household,Supermarket Type1,Tier 1,Medium,10.43,36.06,132
+Household,Grocery,Tier 1,Small,21.57,95.86,314
+Frozen,Grocery,Tier 3,Medium,12.14,40.23,481
+Produce,Supermarket Type2,Tier 3,Medium,10.62,100.49,252
+Frozen,Supermarket Type2,Tier 1,Medium,15.85,56.61,408
+Snacks,Supermarket Type1,Tier 2,Medium,7.82,83.43,33
+Beverages,Supermarket Type2,Tier 2,Large,21.04,20.51,284
+Snacks,Supermarket Type2,Tier 3,Small,6.49,78.62,342
+Snacks,Grocery,Tier 2,Small,24.74,59.69,323
+Snacks,Supermarket Type2,Tier 2,Medium,20.44,74.53,206
+Produce,Supermarket Type1,Tier 3,Medium,8.97,28.48,365
+Produce,Supermarket Type1,Tier 3,Small,5.11,91.06,61
+Snacks,Supermarket Type2,Tier 2,Large,21.31,104.91,396
+Household,Supermarket Type1,Tier 2,Medium,19.14,33.84,222
+Dairy,Supermarket Type2,Tier 3,Medium,19.58,20.53,66
+Produce,Supermarket Type2,Tier 2,Small,20.43,12.6,161
+Dairy,Supermarket Type1,Tier 3,Large,6.48,80.62,206
+Snacks,Grocery,Tier 2,Small,12.17,76.78,21
+Snacks,Supermarket Type2,Tier 1,Medium,7.32,70.14,326
+Household,Supermarket Type1,Tier 3,Large,22.26,35.51,10
+Snacks,Supermarket Type2,Tier 3,Medium,17.47,53.0,62
+Household,Grocery,Tier 2,Large,11.62,75.39,329
+Produce,Grocery,Tier 3,Medium,6.27,64.64,416
+Dairy,Grocery,Tier 3,Medium,11.22,118.66,322
+Snacks,Grocery,Tier 3,Small,11.5,25.01,173
+Produce,Grocery,Tier 2,Large,19.59,86.47,457
+Household,Supermarket Type2,Tier 1,Large,17.75,54.48,86
+Beverages,Supermarket Type1,Tier 3,Small,22.74,57.1,478
+Beverages,Supermarket Type2,Tier 1,Large,14.44,88.94,472
+Beverages,Supermarket Type2,Tier 3,Medium,7.39,86.17,429
+Household,Supermarket Type2,Tier 3,Medium,19.26,119.04,437
+Frozen,Grocery,Tier 3,Large,20.22,24.12,223
+Dairy,Supermarket Type1,Tier 1,Large,16.23,21.45,181
+Beverages,Supermarket Type1,Tier 2,Medium,20.42,89.68,208
+Dairy,Grocery,Tier 3,Medium,14.88,73.62,75
+Produce,Grocery,Tier 2,Large,15.45,40.16,391
+Household,Supermarket Type1,Tier 3,Small,13.55,18.74,270
+Produce,Supermarket Type1,Tier 2,Small,5.51,19.42,102
+Produce,Grocery,Tier 3,Small,7.16,108.36,349
+Beverages,Supermarket Type2,Tier 1,Large,5.63,31.11,295
+Frozen,Grocery,Tier 3,Small,17.73,45.57,212
+Frozen,Supermarket Type1,Tier 3,Large,11.29,34.93,6
+Household,Supermarket Type2,Tier 1,Large,15.17,49.05,128
+Snacks,Supermarket Type1,Tier 2,Small,23.15,17.64,284
+Household,Supermarket Type2,Tier 2,Medium,9.99,67.1,78
+Beverages,Supermarket Type1,Tier 1,Medium,13.21,17.44,170
+Dairy,Supermarket Type2,Tier 1,Large,20.11,98.04,26
+Dairy,Grocery,Tier 2,Small,9.58,35.71,158
+Produce,Grocery,Tier 3,Small,6.54,69.4,431
+Produce,Supermarket Type1,Tier 3,Medium,10.8,106.81,443
+Snacks,Supermarket Type1,Tier 2,Small,8.22,81.6,299
+Household,Supermarket Type1,Tier 2,Medium,23.59,68.63,223
+Snacks,Supermarket Type2,Tier 2,Medium,21.16,45.68,161
+Produce,Supermarket Type1,Tier 2,Small,17.67,46.63,499
+Produce,Supermarket Type1,Tier 1,Large,22.43,83.64,234
+Snacks,Supermarket Type1,Tier 2,Small,21.07,119.36,24
+Household,Supermarket Type1,Tier 3,Medium,8.73,82.8,479
+Household,Grocery,Tier 3,Large,22.85,71.36,45
+Beverages,Supermarket Type2,Tier 3,Large,15.79,90.37,442
+Frozen,Supermarket Type1,Tier 2,Large,21.15,61.17,152
+Household,Supermarket Type2,Tier 1,Large,22.92,16.62,112
+Frozen,Supermarket Type2,Tier 1,Small,11.36,71.85,407
+Household,Grocery,Tier 2,Large,7.2,115.34,88
+Beverages,Grocery,Tier 2,Large,9.56,29.28,487
+Snacks,Grocery,Tier 2,Medium,13.54,85.9,371
+Beverages,Supermarket Type1,Tier 2,Large,21.36,32.1,326
+Produce,Supermarket Type1,Tier 2,Medium,22.21,68.94,418
+Produce,Grocery,Tier 2,Small,5.14,20.63,313
+Frozen,Supermarket Type1,Tier 1,Large,15.21,59.54,294
+Snacks,Grocery,Tier 1,Medium,13.35,93.18,410
+Beverages,Supermarket Type2,Tier 1,Small,9.44,48.23,327
+Produce,Supermarket Type2,Tier 2,Small,7.4,83.14,138
+Produce,Supermarket Type2,Tier 3,Large,11.75,97.5,211
+Beverages,Supermarket Type2,Tier 1,Medium,23.86,111.99,287
+Dairy,Grocery,Tier 3,Large,11.46,35.81,270
+Beverages,Supermarket Type1,Tier 1,Medium,15.38,53.92,77
+Frozen,Supermarket Type1,Tier 1,Large,19.06,26.77,485
+Frozen,Grocery,Tier 3,Large,12.27,119.17,356
+Beverages,Supermarket Type1,Tier 3,Small,24.44,111.97,52
+Dairy,Grocery,Tier 3,Medium,24.25,69.4,330
+Household,Grocery,Tier 1,Medium,10.04,102.62,237
+Snacks,Grocery,Tier 3,Small,14.94,67.31,447
+Produce,Grocery,Tier 1,Large,11.02,78.59,104
+Dairy,Supermarket Type1,Tier 1,Medium,10.7,19.8,63
+Snacks,Supermarket Type1,Tier 2,Small,5.74,93.08,262
+Household,Grocery,Tier 3,Small,17.19,24.05,417
+Frozen,Supermarket Type2,Tier 1,Medium,15.05,100.87,456
+Snacks,Grocery,Tier 3,Small,6.03,96.02,69
+Snacks,Grocery,Tier 1,Medium,10.57,87.96,87
+Produce,Supermarket Type1,Tier 3,Small,23.17,13.98,158
+Household,Grocery,Tier 2,Small,9.79,43.34,477
+Dairy,Supermarket Type2,Tier 3,Large,7.9,38.94,270
+Household,Supermarket Type1,Tier 1,Medium,14.79,49.62,313
+Beverages,Supermarket Type1,Tier 2,Medium,24.71,19.64,83
+Snacks,Supermarket Type1,Tier 2,Medium,9.84,113.07,319
+Dairy,Grocery,Tier 1,Medium,18.44,70.92,154
+Household,Grocery,Tier 1,Small,20.23,43.61,439
+Snacks,Supermarket Type2,Tier 3,Small,9.75,53.67,52
+Snacks,Supermarket Type1,Tier 3,Medium,19.56,59.19,409
+Beverages,Supermarket Type2,Tier 3,Small,12.36,76.07,383
+Household,Grocery,Tier 3,Small,17.65,66.72,252
+Snacks,Supermarket Type1,Tier 3,Medium,17.67,111.13,282
+Produce,Grocery,Tier 2,Small,15.72,64.67,360
+Produce,Supermarket Type1,Tier 1,Medium,6.81,119.14,102
+Beverages,Supermarket Type2,Tier 1,Small,21.71,103.66,418
+Snacks,Supermarket Type1,Tier 2,Medium,11.42,32.94,29
+Frozen,Supermarket Type1,Tier 1,Large,8.73,112.37,497
+Snacks,Supermarket Type1,Tier 3,Small,5.82,22.8,288
+Beverages,Supermarket Type2,Tier 3,Small,16.82,99.92,453
+Produce,Supermarket Type1,Tier 1,Medium,18.55,51.87,373
+Household,Supermarket Type2,Tier 1,Medium,5.33,106.58,305
+Dairy,Supermarket Type2,Tier 3,Medium,15.24,105.49,72
+Frozen,Supermarket Type2,Tier 3,Small,9.53,98.65,11
+Frozen,Supermarket Type1,Tier 1,Medium,17.9,96.9,309
+Snacks,Supermarket Type1,Tier 2,Large,8.49,43.51,141
+Beverages,Supermarket Type1,Tier 3,Small,18.82,18.9,168
+Dairy,Grocery,Tier 3,Small,12.73,54.33,87
+Dairy,Supermarket Type1,Tier 1,Large,23.73,29.09,389
+Dairy,Grocery,Tier 3,Small,7.75,86.44,142
+Frozen,Supermarket Type1,Tier 2,Large,11.82,48.07,424
+Frozen,Supermarket Type2,Tier 2,Small,7.27,117.32,77
+Produce,Grocery,Tier 1,Large,23.49,80.51,241
+Beverages,Supermarket Type2,Tier 1,Medium,22.55,100.47,50
+Dairy,Supermarket Type2,Tier 2,Medium,10.16,24.58,110
+Dairy,Grocery,Tier 2,Small,18.2,104.82,420
+Produce,Supermarket Type2,Tier 1,Medium,21.34,111.5,292
+Snacks,Supermarket Type1,Tier 3,Small,16.1,63.58,266
+Snacks,Supermarket Type2,Tier 2,Small,15.59,76.69,180
+Dairy,Supermarket Type1,Tier 2,Large,9.84,94.13,170
+Dairy,Supermarket Type2,Tier 1,Medium,6.86,29.23,149
+Snacks,Supermarket Type2,Tier 3,Large,22.94,65.28,334
+Snacks,Grocery,Tier 3,Medium,23.01,53.85,374
+Produce,Supermarket Type1,Tier 3,Small,17.66,26.1,287
+Dairy,Supermarket Type1,Tier 1,Small,11.78,50.43,58
+Produce,Grocery,Tier 2,Large,11.98,17.5,182
+Household,Grocery,Tier 1,Small,19.52,12.84,423
+Beverages,Grocery,Tier 2,Medium,22.94,24.87,248
+Produce,Supermarket Type1,Tier 3,Large,22.74,115.94,345
+Produce,Supermarket Type1,Tier 3,Large,20.6,70.45,131
+Produce,Supermarket Type1,Tier 2,Small,17.84,116.24,413
+Produce,Supermarket Type1,Tier 3,Small,6.68,57.57,416
+Produce,Grocery,Tier 1,Large,8.23,44.3,371
+Beverages,Supermarket Type1,Tier 2,Large,22.97,65.68,275
+Dairy,Grocery,Tier 1,Large,17.13,58.35,136
+Snacks,Supermarket Type2,Tier 3,Large,5.18,21.62,97
+Dairy,Supermarket Type2,Tier 3,Small,7.03,80.49,383
+Beverages,Grocery,Tier 1,Large,18.27,33.76,77
+Dairy,Supermarket Type1,Tier 3,Small,5.1,78.15,415
+Produce,Supermarket Type2,Tier 2,Medium,8.22,81.52,414
+Snacks,Supermarket Type1,Tier 2,Small,15.97,26.72,407
+Frozen,Supermarket Type2,Tier 1,Small,18.84,16.75,252
+Dairy,Grocery,Tier 1,Medium,18.04,95.88,352
+Dairy,Supermarket Type2,Tier 3,Small,9.49,60.58,277
+Produce,Supermarket Type1,Tier 1,Medium,19.24,16.4,47
+Produce,Supermarket Type2,Tier 3,Small,9.74,119.44,381
+Household,Supermarket Type2,Tier 2,Medium,11.51,16.36,45
+Frozen,Supermarket Type1,Tier 2,Large,19.93,86.45,174
+Beverages,Supermarket Type2,Tier 2,Small,17.99,118.2,438
+Snacks,Supermarket Type2,Tier 2,Large,21.98,36.31,216
+Produce,Supermarket Type2,Tier 1,Small,18.15,25.65,497
+Household,Grocery,Tier 2,Medium,16.37,23.35,172
+Household,Supermarket Type1,Tier 3,Medium,6.87,43.36,43
+Frozen,Supermarket Type2,Tier 3,Small,12.35,21.12,373
+Beverages,Supermarket Type2,Tier 2,Small,10.3,86.14,249
+Household,Supermarket Type2,Tier 1,Small,9.88,16.85,155
+Household,Supermarket Type1,Tier 2,Large,24.46,66.04,115
+Produce,Supermarket Type2,Tier 2,Medium,12.86,119.64,484
+Beverages,Supermarket Type1,Tier 3,Small,22.84,99.54,440
+Produce,Grocery,Tier 2,Medium,17.62,77.67,51
+Beverages,Supermarket Type1,Tier 2,Small,20.9,43.69,67
+Snacks,Supermarket Type1,Tier 2,Medium,15.05,78.63,229
+Household,Supermarket Type2,Tier 1,Small,16.54,67.97,370
+Frozen,Grocery,Tier 1,Large,14.85,56.87,73
+Snacks,Supermarket Type2,Tier 1,Medium,8.9,24.38,303
+Beverages,Grocery,Tier 3,Large,19.45,107.53,436
+Produce,Supermarket Type2,Tier 2,Small,10.62,59.48,294
+Snacks,Grocery,Tier 3,Large,5.49,31.41,300
+Household,Grocery,Tier 1,Medium,17.91,50.45,207
+Household,Grocery,Tier 3,Small,8.54,55.55,65
+Dairy,Grocery,Tier 3,Medium,23.81,101.03,438
+Household,Supermarket Type2,Tier 1,Large,24.08,90.7,455
+Household,Supermarket Type1,Tier 1,Small,23.3,94.62,322
+Produce,Supermarket Type2,Tier 3,Small,12.4,11.21,318
+Snacks,Supermarket Type2,Tier 3,Large,5.31,55.78,165
+Frozen,Supermarket Type2,Tier 3,Medium,23.57,62.95,335
+Snacks,Supermarket Type2,Tier 3,Small,13.56,12.11,20
+Dairy,Grocery,Tier 2,Medium,24.33,38.58,342
+Frozen,Grocery,Tier 2,Medium,24.27,93.63,98
+Snacks,Grocery,Tier 3,Large,22.06,25.08,308
+Snacks,Grocery,Tier 3,Small,10.89,68.88,142
+Frozen,Supermarket Type1,Tier 2,Small,12.7,33.67,342
+Beverages,Supermarket Type1,Tier 3,Medium,22.02,11.33,42
+Dairy,Grocery,Tier 1,Medium,11.34,36.53,131
+Produce,Grocery,Tier 2,Medium,8.39,117.35,279
+Produce,Supermarket Type2,Tier 2,Small,16.14,98.17,168
+Beverages,Supermarket Type1,Tier 1,Medium,23.72,115.55,447
+Snacks,Supermarket Type1,Tier 3,Medium,18.92,63.66,323
+Snacks,Supermarket Type2,Tier 2,Medium,16.4,22.07,81
+Produce,Supermarket Type2,Tier 1,Small,6.94,70.28,178
+Produce,Supermarket Type1,Tier 3,Large,17.3,59.98,391
+Produce,Supermarket Type2,Tier 1,Medium,24.8,102.88,462
+Dairy,Supermarket Type1,Tier 2,Large,7.8,20.79,362
+Beverages,Grocery,Tier 3,Medium,15.37,63.71,325
+Produce,Grocery,Tier 3,Large,22.55,26.51,380
+Frozen,Supermarket Type1,Tier 3,Large,19.82,45.71,95
+Household,Grocery,Tier 2,Large,18.94,91.11,242
+Produce,Supermarket Type2,Tier 3,Small,19.05,62.36,268
+Household,Grocery,Tier 3,Medium,12.19,51.35,183
+Beverages,Grocery,Tier 3,Small,10.87,53.39,498
+Frozen,Grocery,Tier 1,Small,21.19,60.54,494
+Snacks,Supermarket Type2,Tier 1,Large,21.2,96.35,213
+Household,Grocery,Tier 1,Medium,22.34,108.13,77
+Produce,Supermarket Type1,Tier 1,Small,23.26,115.09,394
+Beverages,Supermarket Type2,Tier 3,Medium,15.23,96.56,111
+Beverages,Supermarket Type2,Tier 3,Large,15.03,44.69,349
+Beverages,Grocery,Tier 1,Medium,20.97,85.69,299
+Household,Grocery,Tier 3,Medium,18.0,58.14,373
+Snacks,Supermarket Type2,Tier 2,Small,19.04,38.01,448
+Household,Supermarket Type1,Tier 1,Small,20.92,102.5,288
+Frozen,Supermarket Type2,Tier 2,Small,22.8,14.23,357
+Snacks,Supermarket Type2,Tier 3,Large,11.76,109.19,186
+Household,Supermarket Type2,Tier 1,Large,12.51,60.76,41
+Snacks,Supermarket Type2,Tier 3,Small,6.88,80.09,141
+Dairy,Grocery,Tier 1,Medium,16.57,82.53,342
+Produce,Grocery,Tier 1,Small,5.72,108.46,60
+Produce,Supermarket Type2,Tier 1,Small,14.31,80.03,191
+Beverages,Supermarket Type1,Tier 3,Medium,15.85,77.53,345
+Dairy,Supermarket Type1,Tier 2,Large,10.73,17.33,262
+Snacks,Grocery,Tier 3,Large,16.82,67.02,449
+Beverages,Supermarket Type1,Tier 2,Small,5.61,26.52,62
+Frozen,Grocery,Tier 3,Large,5.75,91.12,367
+Household,Supermarket Type1,Tier 1,Medium,21.45,66.34,127
+Snacks,Supermarket Type2,Tier 3,Small,12.2,84.83,192
+Frozen,Supermarket Type2,Tier 2,Large,7.54,14.58,234
+Household,Grocery,Tier 3,Large,15.44,19.33,172
+Dairy,Supermarket Type1,Tier 2,Small,20.4,88.8,424
+Beverages,Supermarket Type1,Tier 1,Large,9.32,17.93,118
+Beverages,Grocery,Tier 1,Large,17.46,17.84,256
+Produce,Supermarket Type2,Tier 3,Small,6.71,11.33,111
+Produce,Supermarket Type1,Tier 1,Medium,6.03,115.22,41
+Household,Supermarket Type1,Tier 1,Large,15.63,91.13,339
+Produce,Grocery,Tier 2,Small,15.81,48.86,96
+Household,Supermarket Type1,Tier 2,Small,17.75,42.62,22
+Beverages,Supermarket Type2,Tier 3,Large,19.52,48.47,358
+Beverages,Grocery,Tier 2,Large,24.52,95.21,67
+Snacks,Supermarket Type2,Tier 1,Large,15.33,82.75,154
+Produce,Grocery,Tier 3,Large,11.46,30.37,143
+Frozen,Supermarket Type1,Tier 3,Medium,20.9,29.15,190
+Produce,Supermarket Type2,Tier 2,Medium,10.42,20.82,189
+Produce,Supermarket Type1,Tier 2,Medium,13.78,82.63,209
+Snacks,Supermarket Type2,Tier 1,Large,6.57,94.08,264
+Snacks,Supermarket Type2,Tier 2,Large,5.51,39.16,218
+Beverages,Supermarket Type1,Tier 1,Large,24.25,12.3,260
+Frozen,Grocery,Tier 1,Small,21.72,19.04,139
+Produce,Supermarket Type2,Tier 3,Large,18.92,116.46,65
+Dairy,Grocery,Tier 1,Small,13.18,42.5,367
+Household,Supermarket Type1,Tier 3,Small,8.47,94.61,314
+Beverages,Supermarket Type2,Tier 2,Large,8.13,78.71,92
+Produce,Grocery,Tier 3,Medium,10.0,52.01,328
+Produce,Supermarket Type1,Tier 1,Small,15.98,32.63,480
+Produce,Supermarket Type1,Tier 2,Medium,19.29,23.35,211
+Frozen,Supermarket Type2,Tier 2,Small,18.2,77.65,133
+Produce,Supermarket Type2,Tier 2,Small,10.6,95.21,315
+Beverages,Supermarket Type2,Tier 3,Large,24.1,80.83,7
+Frozen,Grocery,Tier 2,Medium,19.76,68.33,466
+Snacks,Supermarket Type2,Tier 1,Large,16.09,14.61,426
+Produce,Grocery,Tier 1,Medium,17.23,116.53,246
+Frozen,Supermarket Type2,Tier 2,Medium,13.39,97.86,125
+Produce,Supermarket Type2,Tier 1,Medium,9.95,42.21,389
+Frozen,Supermarket Type1,Tier 1,Large,12.12,117.8,106
+Snacks,Supermarket Type1,Tier 3,Medium,20.16,76.21,42
+Frozen,Supermarket Type2,Tier 1,Large,5.29,74.07,345
+Beverages,Supermarket Type2,Tier 3,Medium,7.32,92.29,417
+Produce,Supermarket Type2,Tier 2,Small,5.92,99.29,137
+Produce,Supermarket Type2,Tier 1,Small,5.81,82.21,206
+Snacks,Grocery,Tier 3,Small,22.11,24.09,352
+Frozen,Supermarket Type1,Tier 2,Large,19.07,47.21,25
+Dairy,Grocery,Tier 1,Small,14.48,112.09,246
+Snacks,Supermarket Type2,Tier 2,Small,6.96,34.71,459
+Frozen,Grocery,Tier 2,Medium,14.83,50.94,455
+Snacks,Supermarket Type2,Tier 1,Large,14.47,57.53,113
+Beverages,Supermarket Type1,Tier 3,Large,8.46,58.33,307
+Snacks,Supermarket Type1,Tier 1,Large,13.68,77.42,88
+Snacks,Supermarket Type2,Tier 1,Small,12.97,113.74,87
+Produce,Supermarket Type2,Tier 3,Large,17.32,36.48,295
+Produce,Supermarket Type1,Tier 2,Large,17.7,23.37,456
+Snacks,Grocery,Tier 2,Large,5.91,31.72,73
+Household,Grocery,Tier 3,Medium,12.49,107.56,133
+Dairy,Grocery,Tier 3,Small,17.52,81.04,200
+Produce,Supermarket Type1,Tier 2,Medium,15.06,41.45,144
+Household,Grocery,Tier 3,Small,22.13,99.75,448
+Produce,Grocery,Tier 2,Medium,18.17,104.75,287
+Beverages,Supermarket Type2,Tier 1,Small,8.26,103.12,316
+Produce,Supermarket Type2,Tier 3,Large,6.41,111.08,238
+Snacks,Supermarket Type1,Tier 3,Medium,17.85,37.75,27
+Produce,Supermarket Type2,Tier 2,Small,5.53,93.05,157
+Snacks,Grocery,Tier 1,Medium,16.72,60.66,281
+Beverages,Supermarket Type2,Tier 3,Large,23.8,102.62,65
+Dairy,Supermarket Type2,Tier 1,Medium,16.51,90.13,323
+Frozen,Supermarket Type2,Tier 3,Medium,12.76,95.41,382
+Snacks,Supermarket Type1,Tier 2,Large,17.87,82.18,56
+Household,Grocery,Tier 1,Large,14.17,29.52,348
+Household,Supermarket Type2,Tier 2,Medium,15.91,69.95,157
+Dairy,Grocery,Tier 2,Medium,23.83,118.31,241
+Household,Grocery,Tier 1,Large,12.72,113.11,315
+Snacks,Grocery,Tier 3,Small,24.22,14.75,306
+Frozen,Grocery,Tier 1,Large,23.11,28.13,36
+Beverages,Grocery,Tier 2,Medium,8.92,24.49,59
+Produce,Grocery,Tier 1,Medium,6.39,89.86,356
+Household,Supermarket Type2,Tier 3,Large,7.02,99.96,393
+Frozen,Supermarket Type2,Tier 2,Medium,5.36,33.49,40
+Frozen,Grocery,Tier 2,Medium,6.89,65.64,114
+Frozen,Supermarket Type2,Tier 1,Medium,18.66,102.48,494
+Dairy,Grocery,Tier 3,Small,6.42,90.61,181
+Beverages,Supermarket Type1,Tier 2,Small,11.38,69.65,366
+Household,Supermarket Type2,Tier 2,Medium,21.9,74.94,318
+Snacks,Grocery,Tier 2,Small,5.47,65.92,299
+Snacks,Grocery,Tier 2,Large,21.29,42.73,340
+Produce,Grocery,Tier 1,Medium,10.64,72.15,101
+Frozen,Supermarket Type1,Tier 3,Medium,7.36,85.78,373
+Snacks,Supermarket Type1,Tier 2,Medium,18.93,106.07,217
+Snacks,Supermarket Type2,Tier 1,Small,17.58,79.99,321
+Dairy,Supermarket Type2,Tier 2,Medium,22.55,93.72,141
+Dairy,Grocery,Tier 2,Small,19.7,27.61,10
+Snacks,Grocery,Tier 1,Large,21.07,60.77,113
+Beverages,Supermarket Type2,Tier 2,Medium,10.64,11.03,39
+Dairy,Grocery,Tier 1,Large,8.55,37.13,43
+Produce,Supermarket Type1,Tier 3,Small,20.01,89.91,154
+Frozen,Grocery,Tier 1,Large,21.14,119.1,429
+Produce,Grocery,Tier 3,Large,24.81,20.91,122
+Household,Grocery,Tier 1,Large,13.25,54.16,265
+Snacks,Supermarket Type2,Tier 1,Small,12.44,98.01,430
+Household,Supermarket Type1,Tier 1,Medium,20.53,32.44,91
+Beverages,Supermarket Type1,Tier 1,Medium,11.82,71.06,469
+Snacks,Supermarket Type1,Tier 1,Small,23.62,90.64,80
+Dairy,Supermarket Type1,Tier 1,Medium,22.17,77.76,475
+Household,Supermarket Type1,Tier 2,Large,13.58,30.68,468
+Household,Supermarket Type1,Tier 1,Small,20.02,49.09,455
+Dairy,Grocery,Tier 3,Medium,20.09,96.22,418
+Dairy,Grocery,Tier 1,Small,7.06,70.96,317
+Snacks,Supermarket Type2,Tier 1,Large,23.05,10.58,387
+Dairy,Supermarket Type2,Tier 2,Large,15.11,93.71,218
+Produce,Grocery,Tier 1,Large,21.53,13.88,461
+Frozen,Supermarket Type1,Tier 3,Large,11.4,92.03,289
+Snacks,Supermarket Type2,Tier 1,Small,22.91,32.27,243
+Beverages,Grocery,Tier 1,Small,12.78,115.39,169
+Household,Supermarket Type1,Tier 3,Medium,5.22,50.47,91
+Household,Grocery,Tier 3,Medium,23.11,45.96,145
+Dairy,Supermarket Type1,Tier 3,Medium,6.83,26.38,164
+Frozen,Supermarket Type1,Tier 3,Medium,11.39,43.62,50
+Frozen,Supermarket Type1,Tier 1,Large,24.0,106.43,376
+Frozen,Grocery,Tier 1,Medium,24.01,119.6,499
+Snacks,Grocery,Tier 2,Large,16.47,50.51,116
+Snacks,Supermarket Type1,Tier 3,Medium,17.64,59.35,411
+Beverages,Grocery,Tier 1,Medium,13.97,89.43,49
+Snacks,Grocery,Tier 1,Large,10.86,107.48,405
+Dairy,Supermarket Type1,Tier 1,Large,11.57,75.23,251
+Produce,Grocery,Tier 3,Medium,18.45,53.07,108
+Beverages,Supermarket Type1,Tier 1,Medium,20.05,55.39,89
+Dairy,Supermarket Type2,Tier 2,Small,20.83,86.52,454
+Household,Supermarket Type1,Tier 1,Large,20.79,10.35,489
+Snacks,Supermarket Type1,Tier 1,Small,6.82,78.15,138
+Frozen,Supermarket Type1,Tier 1,Large,14.89,49.1,112
+Dairy,Grocery,Tier 1,Medium,6.15,97.36,22
+Snacks,Supermarket Type1,Tier 3,Small,15.99,20.23,98
+Household,Supermarket Type2,Tier 1,Large,13.83,74.7,154
+Beverages,Supermarket Type2,Tier 3,Medium,22.75,62.91,250
+Frozen,Supermarket Type1,Tier 1,Medium,12.02,80.66,293
+Frozen,Supermarket Type2,Tier 3,Small,7.34,17.13,418
+Beverages,Supermarket Type2,Tier 1,Small,7.86,73.8,213
+Dairy,Supermarket Type1,Tier 3,Small,20.23,71.76,130
+Snacks,Grocery,Tier 2,Medium,17.36,71.67,239
+Produce,Supermarket Type1,Tier 1,Small,7.02,76.38,420
+Household,Grocery,Tier 2,Medium,6.68,84.41,430
+Beverages,Supermarket Type2,Tier 2,Large,19.02,98.55,466
+Snacks,Supermarket Type2,Tier 2,Medium,6.46,39.68,126
+Produce,Grocery,Tier 3,Small,21.44,100.76,142
+Dairy,Supermarket Type2,Tier 1,Large,19.12,64.81,499
+Frozen,Grocery,Tier 3,Small,6.63,18.48,119
+Frozen,Supermarket Type1,Tier 1,Medium,6.7,16.44,424
+Produce,Supermarket Type2,Tier 2,Medium,24.73,46.77,166
+Household,Supermarket Type2,Tier 3,Medium,12.49,96.34,205
+Produce,Supermarket Type2,Tier 1,Small,12.41,87.84,238
+Produce,Supermarket Type1,Tier 2,Medium,21.26,96.75,32
+Household,Supermarket Type1,Tier 3,Small,23.94,66.9,15
+Frozen,Supermarket Type2,Tier 3,Medium,24.72,58.42,210
+Household,Supermarket Type1,Tier 2,Medium,20.07,26.22,171
+Frozen,Supermarket Type2,Tier 3,Medium,12.53,46.1,251
+Household,Supermarket Type2,Tier 1,Large,6.67,57.74,51
+Produce,Supermarket Type1,Tier 3,Small,20.54,19.75,250
+Frozen,Supermarket Type2,Tier 1,Small,16.17,34.27,131
+Dairy,Supermarket Type1,Tier 3,Medium,13.48,75.8,151
+Snacks,Supermarket Type1,Tier 1,Small,23.13,90.92,122
+Snacks,Supermarket Type1,Tier 2,Large,7.22,119.82,403
+Household,Supermarket Type1,Tier 2,Large,14.85,112.64,386
+Frozen,Grocery,Tier 3,Large,5.23,80.68,416
+Household,Supermarket Type1,Tier 3,Small,14.37,56.34,156
+Household,Supermarket Type1,Tier 1,Large,6.13,79.98,76
+Snacks,Supermarket Type2,Tier 2,Small,7.38,96.42,367
+Beverages,Grocery,Tier 2,Medium,7.35,23.02,141
+Snacks,Grocery,Tier 1,Small,17.98,55.09,179
+Snacks,Grocery,Tier 3,Large,19.92,102.38,293
+Snacks,Grocery,Tier 3,Medium,16.67,52.22,450
+Household,Supermarket Type2,Tier 3,Large,24.24,72.91,485
+Beverages,Supermarket Type1,Tier 1,Medium,12.5,74.65,23
+Snacks,Supermarket Type1,Tier 3,Large,10.71,30.29,199
+Frozen,Supermarket Type2,Tier 1,Small,22.37,49.85,334
+Frozen,Grocery,Tier 2,Medium,9.47,46.8,428
+Beverages,Supermarket Type1,Tier 1,Medium,24.26,12.88,179
+Dairy,Grocery,Tier 1,Large,5.24,12.66,494
+Household,Supermarket Type2,Tier 1,Small,24.4,101.49,453
+Dairy,Supermarket Type2,Tier 3,Small,5.86,40.04,417
+Snacks,Grocery,Tier 3,Medium,22.82,66.99,438
+Dairy,Supermarket Type2,Tier 3,Medium,15.55,42.86,358
+Produce,Supermarket Type1,Tier 2,Small,24.86,113.47,145
+Household,Supermarket Type2,Tier 2,Medium,6.48,38.52,250
+Frozen,Supermarket Type2,Tier 3,Medium,16.08,57.26,389
+Produce,Grocery,Tier 3,Small,24.39,106.0,422
+Frozen,Grocery,Tier 2,Small,15.46,102.61,97
+Dairy,Grocery,Tier 2,Large,17.59,30.47,436
+Beverages,Grocery,Tier 3,Small,18.91,98.29,243
+Dairy,Supermarket Type1,Tier 1,Medium,14.09,60.4,209
+Frozen,Supermarket Type2,Tier 2,Medium,17.55,63.13,52
+Produce,Grocery,Tier 1,Large,16.69,24.68,437
+Produce,Supermarket Type2,Tier 2,Medium,23.02,18.87,249
+Dairy,Supermarket Type1,Tier 3,Small,5.91,90.07,324
+Frozen,Grocery,Tier 2,Large,10.62,64.61,321
+Household,Grocery,Tier 3,Medium,24.01,58.05,417
+Household,Supermarket Type2,Tier 2,Large,22.81,90.25,299
+Snacks,Grocery,Tier 3,Medium,14.11,94.21,132
+Snacks,Supermarket Type1,Tier 1,Large,17.4,27.48,348
+Dairy,Grocery,Tier 2,Large,10.55,77.12,286
+Beverages,Supermarket Type2,Tier 1,Large,8.76,24.89,21
+Dairy,Supermarket Type2,Tier 3,Small,14.27,92.65,75
+Frozen,Grocery,Tier 3,Medium,12.07,82.27,273
+Dairy,Supermarket Type1,Tier 3,Small,16.67,115.23,329
+Beverages,Supermarket Type2,Tier 1,Medium,6.55,17.59,286
+Dairy,Grocery,Tier 2,Large,24.49,16.28,309
+Beverages,Grocery,Tier 1,Medium,24.72,41.04,455
+Household,Grocery,Tier 3,Small,18.96,38.79,11
+Beverages,Supermarket Type1,Tier 1,Medium,15.72,37.17,318
+Dairy,Grocery,Tier 1,Medium,11.19,109.69,309
+Household,Grocery,Tier 2,Medium,21.28,37.45,107
+Beverages,Grocery,Tier 2,Medium,18.69,39.91,313
+Household,Supermarket Type2,Tier 1,Small,8.25,93.53,197
+Beverages,Supermarket Type2,Tier 2,Medium,23.22,59.47,245
+Dairy,Supermarket Type2,Tier 3,Large,21.45,95.44,66
+Beverages,Supermarket Type1,Tier 2,Large,24.0,17.19,21
+Dairy,Supermarket Type1,Tier 3,Small,19.51,63.63,175
+Snacks,Supermarket Type1,Tier 2,Small,17.27,13.7,29
+Snacks,Supermarket Type2,Tier 1,Medium,13.36,16.89,255
+Frozen,Supermarket Type2,Tier 2,Small,23.65,109.71,257
+Dairy,Supermarket Type2,Tier 2,Large,22.32,25.32,391
+Frozen,Supermarket Type2,Tier 1,Large,5.9,68.57,211
+Frozen,Grocery,Tier 2,Large,5.53,55.22,33
+Snacks,Supermarket Type1,Tier 2,Medium,12.53,48.21,121
+Beverages,Grocery,Tier 1,Medium,21.21,108.98,495
+Beverages,Supermarket Type1,Tier 1,Medium,24.75,12.4,420
+Household,Supermarket Type2,Tier 2,Medium,8.01,83.02,286
+Produce,Supermarket Type1,Tier 2,Small,16.88,115.97,384
+Dairy,Supermarket Type2,Tier 1,Small,12.62,71.62,148
+Household,Grocery,Tier 2,Small,24.4,113.05,29
+Frozen,Supermarket Type2,Tier 1,Large,21.84,15.75,314
+Household,Supermarket Type2,Tier 3,Small,21.77,56.07,160
+Frozen,Supermarket Type2,Tier 3,Medium,14.37,38.62,77
+Produce,Supermarket Type1,Tier 2,Small,13.3,90.39,124
+Snacks,Supermarket Type2,Tier 1,Small,10.47,117.94,316
+Beverages,Supermarket Type1,Tier 1,Large,6.13,38.22,325
+Beverages,Grocery,Tier 2,Medium,22.29,81.96,97
+Beverages,Grocery,Tier 2,Large,21.26,31.79,90
+Frozen,Grocery,Tier 2,Medium,24.99,72.19,340
+Household,Supermarket Type1,Tier 2,Small,24.93,61.03,429
+Snacks,Supermarket Type2,Tier 2,Small,16.11,116.92,368
+Frozen,Supermarket Type2,Tier 3,Small,20.38,76.94,439
+Frozen,Grocery,Tier 1,Medium,23.9,48.45,122
+Snacks,Supermarket Type2,Tier 3,Large,21.99,22.55,237
+Household,Grocery,Tier 1,Large,9.95,26.64,203
+Frozen,Grocery,Tier 2,Large,14.01,34.78,210
+Beverages,Supermarket Type2,Tier 3,Medium,7.58,37.61,417
+Frozen,Supermarket Type1,Tier 3,Medium,24.08,103.57,343
+Produce,Supermarket Type2,Tier 1,Medium,17.12,71.73,151
+Beverages,Grocery,Tier 2,Large,9.57,67.57,454
+Beverages,Supermarket Type2,Tier 3,Medium,18.43,22.62,429
+Snacks,Supermarket Type2,Tier 1,Medium,17.36,104.62,433
+Frozen,Supermarket Type1,Tier 1,Large,12.16,89.51,275
+Produce,Supermarket Type1,Tier 1,Medium,7.27,17.44,391
+Dairy,Supermarket Type2,Tier 3,Large,18.43,87.86,143
+Frozen,Grocery,Tier 3,Large,15.41,69.79,185
+Beverages,Supermarket Type2,Tier 1,Small,20.45,18.99,434
+Frozen,Grocery,Tier 2,Large,15.4,60.41,34
+Household,Supermarket Type2,Tier 1,Small,22.04,63.32,61
+Beverages,Supermarket Type2,Tier 3,Medium,16.04,28.24,236
+Frozen,Grocery,Tier 2,Small,16.22,114.03,150
+Produce,Supermarket Type2,Tier 2,Large,22.53,103.5,439
+Household,Supermarket Type1,Tier 3,Large,13.07,83.59,388
+Beverages,Grocery,Tier 3,Large,7.68,60.85,52
+Produce,Supermarket Type1,Tier 1,Medium,5.58,55.29,198
+Frozen,Grocery,Tier 2,Large,20.1,81.61,228
+Dairy,Supermarket Type2,Tier 3,Small,17.41,70.0,140
+Dairy,Supermarket Type1,Tier 3,Small,19.08,16.85,26
+Dairy,Supermarket Type2,Tier 2,Large,9.26,66.38,10
+Household,Supermarket Type1,Tier 3,Medium,7.73,98.7,208
+Dairy,Supermarket Type1,Tier 2,Large,5.29,60.52,243
+Produce,Supermarket Type1,Tier 2,Medium,12.01,15.72,189
+Frozen,Grocery,Tier 3,Medium,16.8,96.49,364
+Beverages,Supermarket Type1,Tier 1,Medium,12.84,32.15,296
+Produce,Supermarket Type1,Tier 2,Large,13.75,38.45,339
+Household,Grocery,Tier 2,Large,23.08,28.12,224
+Frozen,Supermarket Type2,Tier 1,Large,11.97,46.32,120
+Frozen,Supermarket Type1,Tier 3,Small,15.28,93.24,317
+Dairy,Supermarket Type2,Tier 3,Small,20.67,67.13,53
+Frozen,Supermarket Type2,Tier 2,Medium,12.93,32.54,177
+Produce,Supermarket Type1,Tier 2,Medium,17.44,106.56,86
+Snacks,Supermarket Type1,Tier 3,Small,22.25,106.75,326
+Frozen,Supermarket Type1,Tier 1,Medium,23.99,105.76,337
+Household,Grocery,Tier 2,Large,7.94,36.27,49
+Dairy,Grocery,Tier 3,Small,23.53,59.64,339
+Dairy,Grocery,Tier 1,Small,14.84,118.35,24
+Frozen,Supermarket Type2,Tier 2,Small,10.16,94.92,452
+Snacks,Supermarket Type1,Tier 2,Large,14.18,12.99,225
+Produce,Supermarket Type1,Tier 3,Large,24.6,17.17,127
+Frozen,Grocery,Tier 2,Large,14.85,61.03,238
+Beverages,Grocery,Tier 2,Medium,11.58,110.01,225
+Produce,Supermarket Type1,Tier 3,Small,17.67,69.26,327
+Snacks,Supermarket Type2,Tier 3,Medium,9.8,64.76,343
+Dairy,Supermarket Type1,Tier 3,Medium,6.52,21.6,7
+Household,Supermarket Type1,Tier 1,Small,7.58,82.25,186
+Dairy,Supermarket Type2,Tier 3,Large,7.56,100.43,210
+Beverages,Grocery,Tier 3,Large,8.04,51.85,324
+Produce,Supermarket Type2,Tier 2,Medium,7.78,95.32,44
+Snacks,Supermarket Type2,Tier 1,Large,17.82,116.09,63
+Snacks,Supermarket Type1,Tier 2,Small,8.64,32.41,443
+Frozen,Supermarket Type1,Tier 3,Large,11.91,67.57,66
+Dairy,Grocery,Tier 3,Large,22.94,41.59,136
+Produce,Supermarket Type2,Tier 1,Large,14.48,97.21,64
+Frozen,Grocery,Tier 3,Large,18.35,73.54,376
+Snacks,Supermarket Type2,Tier 3,Small,8.45,79.8,335
+Beverages,Supermarket Type1,Tier 3,Large,8.85,97.77,126
+Produce,Supermarket Type2,Tier 3,Medium,5.82,53.56,483
+Beverages,Supermarket Type1,Tier 2,Large,8.38,110.66,111
+Frozen,Supermarket Type1,Tier 1,Medium,10.57,68.63,100
+Dairy,Grocery,Tier 2,Small,8.54,27.38,351
+Frozen,Grocery,Tier 1,Large,6.77,86.55,418
+Frozen,Supermarket Type2,Tier 2,Large,7.41,97.26,239
+Household,Supermarket Type2,Tier 3,Medium,14.22,44.84,390
+Dairy,Supermarket Type2,Tier 3,Small,9.13,104.29,66
+Frozen,Supermarket Type2,Tier 2,Medium,12.29,109.68,260
+Beverages,Supermarket Type1,Tier 3,Small,15.07,40.46,53
+Snacks,Supermarket Type2,Tier 2,Medium,18.81,118.19,397
+Frozen,Grocery,Tier 3,Medium,5.79,25.48,352
+Snacks,Supermarket Type2,Tier 1,Small,20.99,32.22,163
+Household,Grocery,Tier 1,Medium,17.56,30.26,128
+Dairy,Supermarket Type1,Tier 2,Small,6.64,108.34,486
+Household,Supermarket Type1,Tier 2,Large,22.47,81.97,321
+Dairy,Supermarket Type1,Tier 2,Small,23.42,26.73,211
+Frozen,Supermarket Type2,Tier 3,Small,6.22,58.44,52
+Snacks,Supermarket Type1,Tier 2,Small,10.54,77.68,413
+Frozen,Supermarket Type1,Tier 3,Small,21.12,19.18,424
+Snacks,Supermarket Type1,Tier 3,Medium,19.97,107.07,140
+Snacks,Grocery,Tier 1,Small,8.69,98.4,205
+Beverages,Supermarket Type1,Tier 3,Small,9.19,65.57,254
+Snacks,Grocery,Tier 3,Small,12.41,116.38,318
+Beverages,Supermarket Type1,Tier 2,Small,14.69,55.95,361
+Household,Grocery,Tier 1,Medium,17.37,118.25,372
+Frozen,Supermarket Type2,Tier 1,Medium,12.38,83.47,433
+Snacks,Grocery,Tier 3,Small,14.25,79.81,322
+Snacks,Supermarket Type2,Tier 1,Medium,19.95,28.26,299
+Dairy,Supermarket Type2,Tier 3,Small,5.73,107.01,484
+Frozen,Supermarket Type2,Tier 1,Small,10.05,57.02,318
+Produce,Supermarket Type2,Tier 1,Large,19.27,27.85,213
+Household,Grocery,Tier 1,Small,22.9,11.39,359
+Snacks,Grocery,Tier 3,Small,15.23,71.57,489
+Beverages,Grocery,Tier 3,Small,15.64,68.01,215
+Snacks,Grocery,Tier 1,Medium,7.14,89.13,196
+Snacks,Supermarket Type1,Tier 3,Medium,13.95,107.93,48
+Snacks,Supermarket Type2,Tier 1,Medium,15.65,18.73,33
+Beverages,Grocery,Tier 3,Small,9.85,90.46,63
+Household,Supermarket Type1,Tier 1,Medium,10.38,30.62,75
+Snacks,Supermarket Type1,Tier 3,Large,12.55,104.4,96
+Produce,Supermarket Type1,Tier 3,Small,5.4,100.1,269
+Household,Supermarket Type1,Tier 3,Small,11.44,69.49,387
+Frozen,Supermarket Type2,Tier 3,Medium,9.23,88.13,224
+Beverages,Grocery,Tier 2,Small,11.55,44.58,394
+Produce,Supermarket Type2,Tier 1,Medium,7.4,61.83,417
+Dairy,Supermarket Type2,Tier 3,Medium,22.81,100.38,446
+Produce,Supermarket Type1,Tier 3,Large,16.87,60.52,405
+Household,Supermarket Type2,Tier 1,Large,18.58,49.36,404
+Dairy,Supermarket Type2,Tier 2,Medium,20.78,64.36,219
+Dairy,Grocery,Tier 3,Small,14.97,101.11,483
+Snacks,Supermarket Type1,Tier 2,Large,6.74,46.87,391
+Beverages,Supermarket Type1,Tier 3,Large,15.74,29.11,281
+Produce,Grocery,Tier 3,Large,16.74,88.32,68
+Dairy,Grocery,Tier 1,Medium,19.91,100.86,350
+Frozen,Grocery,Tier 2,Large,13.63,21.07,296
+Dairy,Supermarket Type1,Tier 1,Large,7.55,36.39,494
+Beverages,Supermarket Type1,Tier 1,Medium,10.68,25.62,489
+Household,Supermarket Type2,Tier 2,Small,12.26,48.27,249
+Beverages,Supermarket Type1,Tier 3,Large,17.92,59.54,474
+Beverages,Supermarket Type2,Tier 3,Large,16.42,92.37,66
+Household,Grocery,Tier 3,Medium,12.12,81.63,430
+Snacks,Supermarket Type1,Tier 3,Medium,24.73,78.3,336
+Produce,Grocery,Tier 3,Large,17.12,48.76,174
+Beverages,Grocery,Tier 2,Large,9.74,102.56,449
+Frozen,Supermarket Type2,Tier 3,Medium,7.04,61.84,273
+Household,Supermarket Type2,Tier 2,Small,8.06,117.7,271
+Frozen,Supermarket Type1,Tier 2,Small,9.92,79.76,58
+Snacks,Grocery,Tier 3,Large,8.21,23.89,20
+Household,Grocery,Tier 3,Medium,8.73,84.38,12
+Dairy,Supermarket Type2,Tier 1,Large,10.7,45.76,108
+Dairy,Supermarket Type2,Tier 1,Medium,8.47,85.5,63
+Produce,Supermarket Type1,Tier 3,Large,22.94,17.66,317
+Produce,Grocery,Tier 1,Medium,6.6,29.24,44
+Snacks,Supermarket Type2,Tier 1,Large,15.49,104.13,241
+Household,Grocery,Tier 2,Large,13.21,34.99,447
+Household,Supermarket Type2,Tier 2,Medium,24.65,102.07,390
+Frozen,Supermarket Type1,Tier 2,Small,7.24,40.72,98
+Produce,Supermarket Type2,Tier 2,Medium,12.96,80.72,226
+Snacks,Supermarket Type2,Tier 1,Medium,24.39,86.36,208
+Snacks,Supermarket Type1,Tier 2,Medium,22.31,66.39,142
+Household,Grocery,Tier 1,Small,21.34,43.58,304
+Beverages,Grocery,Tier 1,Large,10.16,33.39,399
+Snacks,Grocery,Tier 3,Medium,8.42,13.65,211
+Beverages,Supermarket Type2,Tier 1,Small,18.37,43.43,340
+Beverages,Supermarket Type1,Tier 1,Small,23.59,81.85,85
+Dairy,Supermarket Type2,Tier 1,Large,16.14,113.21,222
+Household,Grocery,Tier 1,Large,16.43,105.83,6
+Snacks,Supermarket Type2,Tier 3,Small,10.6,94.27,182
+Snacks,Grocery,Tier 2,Medium,20.39,96.73,400
+Frozen,Supermarket Type2,Tier 2,Large,8.74,83.15,375
+Frozen,Supermarket Type2,Tier 2,Medium,11.47,38.63,350
+Dairy,Supermarket Type1,Tier 2,Medium,13.51,109.79,283
+Frozen,Supermarket Type2,Tier 2,Medium,15.15,83.78,150
+Produce,Grocery,Tier 3,Medium,9.85,71.65,322
+Frozen,Supermarket Type1,Tier 1,Medium,7.3,22.21,228
+Household,Supermarket Type2,Tier 1,Large,17.21,59.18,373
+Household,Supermarket Type1,Tier 1,Medium,10.77,60.64,388
+Produce,Supermarket Type2,Tier 1,Medium,16.62,105.1,66
+Dairy,Supermarket Type2,Tier 2,Large,8.09,70.13,298
+Household,Supermarket Type1,Tier 2,Medium,14.62,51.84,243
+Household,Supermarket Type2,Tier 2,Large,15.65,117.45,199
+Produce,Grocery,Tier 1,Medium,6.04,22.18,170
+Frozen,Grocery,Tier 1,Large,11.73,56.48,455
+Beverages,Supermarket Type2,Tier 1,Medium,7.69,14.62,226
+Beverages,Supermarket Type1,Tier 1,Small,6.27,91.39,65
+Snacks,Supermarket Type1,Tier 2,Medium,24.8,110.99,133
+Frozen,Supermarket Type2,Tier 1,Small,11.45,40.8,482
+Household,Supermarket Type1,Tier 3,Large,21.2,104.42,177
+Snacks,Supermarket Type2,Tier 2,Medium,10.09,42.14,484
+Beverages,Supermarket Type1,Tier 3,Medium,18.63,110.18,160
+Frozen,Grocery,Tier 3,Medium,20.2,92.94,409
+Frozen,Supermarket Type1,Tier 3,Medium,16.91,98.54,382
+Produce,Supermarket Type2,Tier 1,Medium,14.43,11.98,114
+Household,Supermarket Type2,Tier 3,Large,13.24,115.91,273
+Dairy,Grocery,Tier 2,Small,11.98,89.93,415
+Beverages,Grocery,Tier 3,Large,23.59,43.52,360
+Beverages,Supermarket Type2,Tier 2,Small,21.61,101.23,395
+Dairy,Supermarket Type1,Tier 2,Small,24.3,40.97,282
+Snacks,Supermarket Type2,Tier 3,Large,7.49,106.0,78
+Snacks,Grocery,Tier 3,Large,19.62,22.38,491
+Beverages,Grocery,Tier 1,Medium,23.77,87.41,441
+Produce,Grocery,Tier 3,Medium,8.62,69.48,467
+Produce,Grocery,Tier 3,Medium,6.33,20.62,211
+Household,Supermarket Type1,Tier 2,Small,19.82,36.61,392
+Produce,Grocery,Tier 2,Large,16.49,11.36,484
+Produce,Grocery,Tier 1,Large,21.84,61.56,283
+Frozen,Grocery,Tier 3,Large,7.8,43.14,379
+Snacks,Supermarket Type1,Tier 3,Medium,20.91,75.82,330
+Beverages,Supermarket Type1,Tier 2,Small,9.03,42.7,476
+Frozen,Supermarket Type1,Tier 3,Small,8.27,42.99,344
+Dairy,Grocery,Tier 2,Small,8.29,91.75,361
+Household,Supermarket Type1,Tier 1,Medium,21.29,15.3,344
+Produce,Grocery,Tier 3,Medium,18.3,109.32,208
+Snacks,Supermarket Type1,Tier 1,Medium,15.46,103.75,165
+Household,Grocery,Tier 2,Small,12.18,83.46,32
+Household,Supermarket Type1,Tier 3,Large,22.54,75.25,396
+Dairy,Grocery,Tier 1,Small,12.85,108.15,261
+Beverages,Supermarket Type1,Tier 3,Medium,21.33,30.39,169
+Dairy,Grocery,Tier 2,Large,13.78,18.69,67
+Snacks,Supermarket Type2,Tier 1,Small,12.54,36.35,26
+Frozen,Supermarket Type2,Tier 1,Large,14.25,97.4,74
+Produce,Supermarket Type2,Tier 3,Medium,11.03,13.81,385
+Snacks,Supermarket Type1,Tier 3,Large,19.95,74.11,409
+Frozen,Grocery,Tier 3,Medium,15.05,119.5,100
+Snacks,Supermarket Type1,Tier 2,Small,9.64,104.13,167
+Produce,Grocery,Tier 1,Small,22.99,67.36,83
+Frozen,Grocery,Tier 2,Large,12.68,17.0,9
+Household,Supermarket Type1,Tier 3,Medium,15.87,101.45,320
+Dairy,Grocery,Tier 3,Small,23.13,75.89,124
+Snacks,Supermarket Type1,Tier 3,Small,17.48,22.64,306
+Snacks,Supermarket Type1,Tier 2,Medium,7.34,20.32,182
+Produce,Supermarket Type1,Tier 3,Medium,23.8,110.06,180
+Dairy,Grocery,Tier 3,Small,17.55,83.61,394
+Household,Grocery,Tier 1,Large,11.7,101.22,221
+Produce,Grocery,Tier 2,Large,7.79,106.69,60
+Household,Supermarket Type1,Tier 1,Medium,20.88,72.89,370
+Household,Supermarket Type1,Tier 1,Large,17.4,66.92,191
+Dairy,Grocery,Tier 1,Large,15.67,57.35,236
+Snacks,Grocery,Tier 3,Small,22.88,44.86,259
+Dairy,Grocery,Tier 2,Large,20.77,57.81,417
+Frozen,Supermarket Type2,Tier 2,Medium,8.03,95.13,459
+Household,Grocery,Tier 1,Small,11.23,76.21,108
+Frozen,Supermarket Type1,Tier 1,Medium,9.97,108.18,81
+Snacks,Supermarket Type2,Tier 2,Medium,19.88,58.77,234
+Household,Grocery,Tier 2,Medium,5.67,76.78,406
+Produce,Supermarket Type1,Tier 2,Medium,16.4,79.44,262
+Dairy,Supermarket Type2,Tier 1,Medium,20.25,75.09,268
+Frozen,Supermarket Type2,Tier 3,Small,22.54,87.29,335
+Beverages,Supermarket Type2,Tier 2,Medium,11.84,36.12,485
+Produce,Grocery,Tier 2,Large,21.43,66.36,186
+Household,Grocery,Tier 2,Large,7.21,21.46,385
+Snacks,Supermarket Type2,Tier 3,Small,21.93,52.3,260
+Beverages,Grocery,Tier 2,Large,7.55,63.64,42
+Household,Grocery,Tier 3,Large,12.95,81.74,180
+Household,Supermarket Type2,Tier 1,Small,20.95,114.56,31
+Beverages,Supermarket Type2,Tier 3,Small,8.0,76.07,280
+Produce,Grocery,Tier 1,Small,9.59,91.8,144
+Produce,Supermarket Type2,Tier 3,Large,19.45,65.69,303
+Dairy,Supermarket Type1,Tier 1,Medium,19.4,79.75,449
+Beverages,Supermarket Type1,Tier 1,Medium,17.82,17.8,291
+Frozen,Grocery,Tier 3,Large,18.88,37.98,95
+Dairy,Supermarket Type1,Tier 2,Small,15.85,49.8,484
+Frozen,Supermarket Type2,Tier 2,Medium,10.04,61.97,65
+Household,Supermarket Type1,Tier 2,Medium,11.91,15.02,462
+Snacks,Grocery,Tier 2,Medium,8.63,25.4,455
+Produce,Supermarket Type1,Tier 2,Large,23.17,40.45,369
+Produce,Supermarket Type1,Tier 1,Medium,16.67,116.87,351
+Snacks,Supermarket Type1,Tier 2,Medium,13.02,46.45,167
+Household,Supermarket Type2,Tier 3,Small,14.24,63.02,355
+Dairy,Supermarket Type1,Tier 2,Medium,23.95,31.57,147
+Produce,Supermarket Type2,Tier 3,Medium,8.07,77.19,404
+Household,Supermarket Type1,Tier 1,Medium,16.72,40.88,257
+Produce,Supermarket Type2,Tier 3,Medium,15.12,32.77,273
+Produce,Supermarket Type1,Tier 3,Small,17.23,66.82,373
+Snacks,Grocery,Tier 3,Medium,5.36,10.61,295
+Frozen,Supermarket Type2,Tier 3,Medium,22.44,10.84,463
+Dairy,Supermarket Type2,Tier 2,Large,23.64,34.1,191
+Produce,Supermarket Type2,Tier 3,Small,16.3,14.04,409
+Household,Supermarket Type1,Tier 2,Medium,18.93,21.88,442
+Frozen,Supermarket Type1,Tier 2,Medium,23.45,47.27,463
+Snacks,Supermarket Type1,Tier 1,Medium,19.14,98.28,418
+Snacks,Grocery,Tier 1,Medium,8.05,72.93,308
+Household,Supermarket Type1,Tier 2,Large,16.53,66.39,295
+Produce,Supermarket Type2,Tier 2,Medium,17.13,42.28,90
+Dairy,Supermarket Type2,Tier 3,Large,13.48,112.49,170
+Beverages,Grocery,Tier 1,Small,19.73,53.67,419
+Household,Supermarket Type2,Tier 3,Medium,23.69,19.58,466
+Dairy,Supermarket Type1,Tier 3,Large,23.51,77.88,412
+Household,Supermarket Type1,Tier 2,Small,14.02,22.52,118
+Household,Supermarket Type1,Tier 2,Large,7.26,47.97,437
+Dairy,Supermarket Type2,Tier 2,Large,24.7,65.82,484
+Snacks,Supermarket Type2,Tier 2,Large,21.78,106.16,360
+Snacks,Supermarket Type1,Tier 1,Large,7.49,64.29,420
+Frozen,Supermarket Type2,Tier 1,Medium,23.42,87.25,187
+Household,Supermarket Type1,Tier 3,Small,22.4,119.21,211
+Snacks,Supermarket Type2,Tier 1,Large,15.38,24.46,260
+Frozen,Supermarket Type1,Tier 1,Small,16.83,40.22,239
+Beverages,Supermarket Type1,Tier 3,Medium,12.98,53.4,446
+Frozen,Grocery,Tier 3,Large,6.1,56.4,359
+Frozen,Supermarket Type2,Tier 3,Large,11.7,55.21,7
+Frozen,Supermarket Type1,Tier 3,Small,21.06,109.84,212
+Dairy,Supermarket Type1,Tier 3,Medium,5.09,88.54,201
+Household,Supermarket Type1,Tier 2,Large,11.67,76.87,345
+Frozen,Grocery,Tier 2,Small,12.96,44.03,129
+Produce,Supermarket Type2,Tier 1,Small,15.75,100.62,142
+Dairy,Supermarket Type2,Tier 1,Medium,23.4,115.06,343
+Beverages,Supermarket Type1,Tier 1,Large,11.93,100.33,29
+Household,Supermarket Type2,Tier 3,Medium,11.94,10.17,72
+Household,Supermarket Type2,Tier 2,Medium,19.75,80.0,65
+Produce,Supermarket Type1,Tier 1,Medium,14.04,15.62,33
+Produce,Grocery,Tier 1,Large,9.49,38.34,387
+Dairy,Grocery,Tier 2,Medium,14.05,16.55,23
+Household,Supermarket Type1,Tier 1,Large,7.82,76.42,175
+Dairy,Supermarket Type1,Tier 2,Large,8.53,85.52,454
+Frozen,Supermarket Type1,Tier 3,Small,14.97,22.59,78
+Dairy,Supermarket Type1,Tier 1,Small,13.38,52.22,65
+Household,Supermarket Type1,Tier 2,Large,23.3,60.19,431
+Beverages,Supermarket Type1,Tier 2,Large,12.25,50.6,157
+Dairy,Supermarket Type2,Tier 1,Large,16.61,23.31,280
+Produce,Supermarket Type1,Tier 2,Medium,17.65,56.08,52
+Dairy,Supermarket Type1,Tier 2,Small,5.26,92.63,215
+Frozen,Supermarket Type1,Tier 2,Medium,18.27,17.81,347
+Household,Grocery,Tier 1,Small,8.56,18.82,412
+Produce,Grocery,Tier 2,Small,24.22,49.02,143
+Produce,Supermarket Type1,Tier 1,Large,7.97,113.59,114
+Produce,Supermarket Type2,Tier 1,Large,13.29,83.54,486
+Dairy,Grocery,Tier 1,Medium,6.71,84.65,187
+Snacks,Supermarket Type2,Tier 3,Small,24.94,49.81,32
+Frozen,Grocery,Tier 2,Small,15.04,75.3,201
+Frozen,Grocery,Tier 3,Medium,16.91,11.11,195
+Produce,Supermarket Type1,Tier 1,Large,6.34,79.97,319
+Beverages,Grocery,Tier 3,Small,20.0,110.46,393
+Beverages,Supermarket Type1,Tier 3,Small,9.2,77.38,55
+Household,Supermarket Type1,Tier 2,Small,22.96,106.11,153
+Produce,Supermarket Type1,Tier 2,Large,9.1,89.64,272
+Produce,Supermarket Type2,Tier 1,Small,8.81,23.26,54
+Frozen,Grocery,Tier 2,Small,5.73,109.27,392
+Dairy,Grocery,Tier 1,Small,14.44,17.31,250
+Beverages,Supermarket Type2,Tier 2,Medium,16.3,68.74,117
+Household,Grocery,Tier 3,Small,6.31,25.64,174
+Produce,Supermarket Type2,Tier 3,Medium,20.51,11.29,472
+Dairy,Supermarket Type1,Tier 1,Large,14.07,56.42,170
+Frozen,Supermarket Type2,Tier 2,Small,15.49,42.45,413
+Produce,Grocery,Tier 1,Large,13.82,63.46,18
+Beverages,Supermarket Type2,Tier 3,Medium,13.02,73.49,207
+Frozen,Grocery,Tier 1,Large,16.19,14.81,292
+Snacks,Grocery,Tier 1,Large,8.1,23.53,399
+Dairy,Grocery,Tier 1,Medium,8.64,71.45,193
+Beverages,Supermarket Type1,Tier 2,Small,22.24,47.75,406
+Household,Supermarket Type2,Tier 1,Small,23.92,90.21,159
+Household,Grocery,Tier 2,Large,12.47,81.75,59
+Frozen,Supermarket Type1,Tier 2,Small,10.41,103.02,186
+Snacks,Grocery,Tier 2,Medium,17.88,86.17,214
+Beverages,Supermarket Type1,Tier 3,Large,13.17,57.29,380
+Produce,Supermarket Type1,Tier 2,Large,5.51,84.03,475
+Household,Grocery,Tier 2,Small,8.12,40.29,79
+Snacks,Supermarket Type1,Tier 3,Medium,19.32,43.69,281
+Produce,Grocery,Tier 2,Medium,18.18,96.79,432
+Beverages,Supermarket Type1,Tier 3,Small,5.54,59.11,137
+Dairy,Supermarket Type1,Tier 2,Large,9.44,97.82,347
+Snacks,Supermarket Type2,Tier 1,Medium,9.62,100.47,429
+Snacks,Grocery,Tier 3,Medium,18.44,104.33,63
+Beverages,Supermarket Type2,Tier 3,Large,5.39,110.83,349
+Frozen,Supermarket Type2,Tier 1,Small,7.08,57.41,493
+Produce,Grocery,Tier 2,Small,21.0,45.08,186
+Frozen,Grocery,Tier 2,Medium,8.57,74.04,462
+Beverages,Supermarket Type2,Tier 2,Small,18.05,50.83,410
+Dairy,Grocery,Tier 2,Large,9.76,76.12,343
+Dairy,Grocery,Tier 2,Large,6.99,87.61,325
+Household,Supermarket Type1,Tier 3,Medium,9.86,85.72,68
+Household,Grocery,Tier 3,Medium,19.45,51.2,331
+Dairy,Supermarket Type2,Tier 2,Large,22.11,28.35,264
+Snacks,Supermarket Type1,Tier 1,Medium,21.6,57.36,197
+Produce,Supermarket Type1,Tier 2,Small,12.94,25.69,147
+Snacks,Supermarket Type1,Tier 2,Large,18.36,107.91,108
+Dairy,Supermarket Type1,Tier 1,Small,9.1,48.05,464
+Dairy,Supermarket Type1,Tier 3,Large,10.86,26.99,410
+Snacks,Supermarket Type1,Tier 2,Medium,22.93,12.8,218
+Household,Supermarket Type2,Tier 3,Large,5.26,81.04,246
+Household,Supermarket Type1,Tier 3,Large,6.71,80.06,435
+Produce,Supermarket Type2,Tier 2,Large,9.16,47.47,213
+Snacks,Supermarket Type2,Tier 2,Small,5.53,17.89,97
+Produce,Grocery,Tier 1,Large,8.63,55.06,434
+Household,Supermarket Type1,Tier 2,Medium,16.66,44.23,146
+Snacks,Grocery,Tier 1,Large,13.43,84.48,438
+Household,Grocery,Tier 2,Medium,22.85,76.64,408
+Frozen,Grocery,Tier 1,Large,21.35,50.11,438
+Frozen,Grocery,Tier 1,Large,11.84,33.97,116
+Beverages,Grocery,Tier 3,Medium,10.19,118.68,421
+Household,Supermarket Type2,Tier 2,Small,12.59,59.94,379
+Dairy,Supermarket Type1,Tier 2,Small,16.81,85.71,63
+Produce,Supermarket Type1,Tier 2,Medium,10.36,25.46,47
+Snacks,Grocery,Tier 1,Medium,17.48,63.41,211
+Frozen,Supermarket Type1,Tier 3,Large,13.19,13.03,272
+Household,Grocery,Tier 1,Large,16.04,65.6,300
+Dairy,Supermarket Type1,Tier 3,Large,13.72,116.04,122
+Household,Supermarket Type2,Tier 2,Medium,10.89,52.26,24
+Household,Supermarket Type1,Tier 3,Small,23.97,14.29,226
+Frozen,Supermarket Type2,Tier 3,Medium,20.27,13.41,170
+Frozen,Supermarket Type1,Tier 1,Large,7.8,52.68,135
+Household,Supermarket Type1,Tier 2,Small,22.37,27.6,160
+Produce,Grocery,Tier 1,Medium,14.75,12.57,188
+Household,Grocery,Tier 2,Large,22.89,93.18,94
+Produce,Supermarket Type1,Tier 2,Large,21.0,60.44,98
+Household,Grocery,Tier 2,Small,13.5,41.82,17
+Snacks,Supermarket Type1,Tier 3,Small,5.45,109.01,465
+Dairy,Grocery,Tier 2,Small,10.37,22.78,326
+Household,Grocery,Tier 2,Medium,15.83,115.15,297
+Frozen,Supermarket Type2,Tier 3,Small,17.67,44.54,437
+Beverages,Supermarket Type2,Tier 2,Small,10.16,107.72,234
+Snacks,Supermarket Type1,Tier 2,Small,7.79,76.32,326
+Frozen,Supermarket Type1,Tier 3,Small,21.7,100.94,296
+Snacks,Supermarket Type2,Tier 2,Small,24.69,118.24,442
+Beverages,Supermarket Type1,Tier 2,Large,15.51,41.72,30
+Household,Supermarket Type2,Tier 2,Medium,8.43,115.72,79
+Produce,Supermarket Type1,Tier 2,Large,10.45,52.84,460
+Household,Grocery,Tier 1,Large,5.37,52.41,368
+Produce,Grocery,Tier 1,Medium,23.29,47.44,428
+Frozen,Supermarket Type2,Tier 1,Large,7.36,69.55,303
+Snacks,Grocery,Tier 2,Small,16.53,26.96,154
+Frozen,Grocery,Tier 1,Large,10.48,70.91,152
+Dairy,Supermarket Type1,Tier 1,Small,16.08,69.59,12
+Frozen,Grocery,Tier 2,Medium,18.03,93.81,33
+Frozen,Supermarket Type1,Tier 3,Large,21.59,101.7,300
+Dairy,Supermarket Type2,Tier 1,Medium,9.13,58.45,478
+Beverages,Supermarket Type2,Tier 1,Large,5.22,43.26,418
+Produce,Supermarket Type1,Tier 3,Large,7.74,38.53,213
+Beverages,Grocery,Tier 3,Large,23.0,31.41,132
+Produce,Grocery,Tier 2,Small,22.48,16.34,344
+Produce,Supermarket Type2,Tier 2,Medium,16.95,47.67,120
+Frozen,Supermarket Type2,Tier 1,Large,17.01,39.73,443
+Produce,Supermarket Type1,Tier 1,Medium,18.3,116.31,148
+Produce,Supermarket Type2,Tier 3,Large,8.51,71.35,434
+Frozen,Grocery,Tier 1,Small,23.29,48.2,322
+Dairy,Supermarket Type2,Tier 1,Medium,13.38,73.85,239
+Frozen,Supermarket Type1,Tier 2,Large,12.66,25.31,11
+Beverages,Supermarket Type2,Tier 1,Large,15.38,58.84,468
+Household,Grocery,Tier 2,Small,5.94,78.89,49
+Dairy,Supermarket Type2,Tier 1,Small,8.33,63.78,447
+Frozen,Supermarket Type2,Tier 2,Small,19.76,54.2,243
+Frozen,Grocery,Tier 1,Large,6.66,119.32,444
+Household,Supermarket Type2,Tier 1,Medium,17.06,106.83,436
+Frozen,Supermarket Type1,Tier 1,Small,9.91,78.57,159
+Produce,Supermarket Type1,Tier 3,Small,12.79,72.63,185
+Beverages,Supermarket Type2,Tier 2,Large,10.77,78.27,219
+Snacks,Supermarket Type1,Tier 2,Small,12.11,32.14,92
+Beverages,Supermarket Type2,Tier 1,Medium,19.38,53.47,260
+Produce,Supermarket Type2,Tier 3,Medium,10.94,14.34,77
+Household,Grocery,Tier 2,Large,16.33,62.31,423
+Produce,Supermarket Type2,Tier 1,Medium,14.52,69.73,183
+Snacks,Supermarket Type1,Tier 1,Small,18.27,35.05,216
+Beverages,Supermarket Type1,Tier 2,Medium,23.74,116.04,297
+Frozen,Supermarket Type2,Tier 3,Small,19.65,110.04,238
+Produce,Supermarket Type1,Tier 3,Large,9.3,89.44,469
+Snacks,Grocery,Tier 1,Small,5.62,68.67,243
+Dairy,Grocery,Tier 3,Medium,10.25,105.7,227
+Beverages,Grocery,Tier 2,Large,16.9,24.37,123
+Produce,Grocery,Tier 3,Large,6.03,96.96,317
+Snacks,Grocery,Tier 3,Small,14.93,23.73,268
+Dairy,Supermarket Type1,Tier 1,Small,16.94,97.36,211
+Beverages,Grocery,Tier 2,Medium,11.68,40.33,99
+Produce,Supermarket Type1,Tier 1,Small,20.42,106.48,377
+Beverages,Grocery,Tier 3,Medium,7.13,113.84,226
+Dairy,Supermarket Type2,Tier 2,Large,6.5,26.37,370
+Frozen,Grocery,Tier 2,Small,19.56,60.89,280
+Frozen,Grocery,Tier 2,Medium,14.91,117.91,384
+Produce,Supermarket Type2,Tier 1,Large,18.77,63.17,235
+Dairy,Supermarket Type2,Tier 2,Medium,13.7,104.99,313
+Frozen,Supermarket Type2,Tier 1,Small,9.93,74.76,123
+Beverages,Grocery,Tier 1,Large,21.38,51.29,272
+Dairy,Supermarket Type2,Tier 3,Large,20.99,41.44,437
+Beverages,Supermarket Type2,Tier 2,Medium,18.89,32.35,277
+Dairy,Supermarket Type2,Tier 2,Medium,10.44,93.8,68
+Dairy,Supermarket Type2,Tier 1,Large,16.8,52.52,302
+Produce,Supermarket Type2,Tier 1,Medium,12.22,66.24,354
+Beverages,Grocery,Tier 2,Medium,6.83,64.16,417
+Dairy,Supermarket Type2,Tier 2,Large,23.35,73.5,407
+Dairy,Grocery,Tier 1,Large,7.74,105.21,498
+Produce,Supermarket Type2,Tier 3,Large,24.0,117.88,15
+Produce,Supermarket Type2,Tier 2,Medium,13.92,54.83,102
+Beverages,Supermarket Type2,Tier 1,Small,8.7,101.03,438
+Frozen,Supermarket Type2,Tier 2,Large,15.84,94.1,75
+Household,Supermarket Type1,Tier 1,Large,22.46,73.09,368
+Produce,Supermarket Type1,Tier 2,Medium,19.64,115.17,62
+Dairy,Grocery,Tier 3,Medium,21.13,32.05,294
+Dairy,Supermarket Type1,Tier 3,Large,18.18,22.02,255
+Snacks,Supermarket Type1,Tier 3,Medium,18.85,103.94,280
+Beverages,Supermarket Type1,Tier 2,Large,21.98,58.31,54
+Produce,Supermarket Type2,Tier 2,Medium,9.99,103.17,362
+Dairy,Grocery,Tier 2,Medium,14.79,108.24,220
+Household,Supermarket Type1,Tier 1,Large,9.42,16.87,398
+Household,Grocery,Tier 2,Small,24.75,107.18,420
+Household,Supermarket Type2,Tier 1,Medium,23.88,59.32,56
+Beverages,Supermarket Type1,Tier 3,Large,5.79,66.15,275
+Frozen,Supermarket Type2,Tier 3,Small,19.11,78.93,489
+Snacks,Grocery,Tier 2,Medium,23.5,111.9,88
+Beverages,Grocery,Tier 2,Large,8.61,12.1,391
+Household,Supermarket Type2,Tier 3,Medium,16.36,62.45,297
+Beverages,Supermarket Type2,Tier 3,Small,23.31,85.65,130
+Frozen,Supermarket Type2,Tier 3,Small,5.68,89.5,300
+Snacks,Supermarket Type1,Tier 1,Medium,18.95,86.18,76
+Snacks,Supermarket Type1,Tier 1,Small,10.95,24.79,300
+Produce,Supermarket Type1,Tier 2,Large,23.49,42.93,240
+Snacks,Grocery,Tier 1,Large,24.42,49.46,60
+Beverages,Supermarket Type1,Tier 3,Medium,23.89,98.49,411
+Produce,Grocery,Tier 1,Medium,14.48,40.66,364
+Beverages,Supermarket Type1,Tier 3,Small,22.24,33.18,399
+Produce,Grocery,Tier 2,Medium,21.89,115.32,114
+Beverages,Grocery,Tier 1,Large,11.38,10.97,196
+Beverages,Supermarket Type2,Tier 3,Small,21.58,119.76,396
+Snacks,Supermarket Type1,Tier 3,Small,5.74,84.45,97
+Snacks,Supermarket Type1,Tier 2,Large,16.93,101.13,354
+Household,Supermarket Type1,Tier 1,Medium,9.6,42.41,60
+Beverages,Supermarket Type1,Tier 1,Medium,7.41,11.57,64
+Beverages,Supermarket Type1,Tier 2,Small,6.54,91.17,142
+Frozen,Supermarket Type2,Tier 3,Medium,18.93,101.76,43
+Snacks,Grocery,Tier 1,Small,11.8,91.45,32
+Snacks,Grocery,Tier 2,Medium,19.5,25.71,53
+Snacks,Supermarket Type2,Tier 1,Large,6.31,92.88,424
+Beverages,Supermarket Type1,Tier 2,Medium,11.31,94.58,129
+Frozen,Grocery,Tier 1,Large,15.79,82.44,17
+Household,Supermarket Type2,Tier 3,Small,20.81,94.27,484
+Frozen,Supermarket Type1,Tier 2,Small,11.38,103.05,40
+Dairy,Grocery,Tier 2,Large,17.52,77.5,105
+Frozen,Supermarket Type2,Tier 1,Small,22.72,19.75,286
+Household,Grocery,Tier 3,Small,17.32,63.64,90
+Beverages,Supermarket Type2,Tier 3,Large,9.66,18.54,8
+Household,Grocery,Tier 2,Large,5.49,54.83,227
+Produce,Supermarket Type1,Tier 3,Medium,22.4,54.78,342
+Beverages,Grocery,Tier 2,Large,5.43,17.26,452
+Frozen,Supermarket Type2,Tier 2,Large,22.49,48.37,170
+Produce,Grocery,Tier 2,Small,15.58,22.21,387
+Household,Supermarket Type1,Tier 1,Medium,23.78,98.91,348
+Dairy,Grocery,Tier 1,Large,20.98,114.25,387
+Produce,Supermarket Type1,Tier 2,Small,24.96,17.95,380
+Beverages,Supermarket Type2,Tier 3,Small,12.01,115.06,475
+Dairy,Grocery,Tier 3,Medium,20.34,67.48,282
+Dairy,Supermarket Type1,Tier 3,Medium,13.04,42.95,134
+Frozen,Grocery,Tier 2,Large,14.6,18.45,35
+Dairy,Supermarket Type2,Tier 3,Small,17.55,65.07,379
+Produce,Grocery,Tier 2,Large,22.47,97.4,15
+Beverages,Supermarket Type1,Tier 3,Small,24.68,87.78,480
+Beverages,Supermarket Type2,Tier 1,Small,20.37,15.52,306
+Household,Grocery,Tier 1,Small,13.36,18.02,100
+Beverages,Supermarket Type1,Tier 2,Small,13.43,54.32,194
+Snacks,Grocery,Tier 2,Large,19.75,42.48,457
+Household,Grocery,Tier 2,Medium,9.78,35.56,196
+Household,Supermarket Type2,Tier 3,Small,7.21,40.91,490
+Snacks,Grocery,Tier 3,Medium,12.09,98.38,270
+Produce,Supermarket Type2,Tier 1,Large,10.74,112.22,428
+Household,Supermarket Type2,Tier 3,Small,10.93,54.56,132
+Dairy,Supermarket Type2,Tier 1,Medium,9.67,109.67,242
+Household,Supermarket Type1,Tier 1,Large,5.84,45.36,412
+Beverages,Grocery,Tier 1,Small,5.36,62.41,359
+Frozen,Grocery,Tier 3,Large,24.75,34.86,432
+Produce,Supermarket Type1,Tier 2,Medium,13.56,80.45,116
+Household,Supermarket Type2,Tier 1,Large,12.69,117.69,320
+Frozen,Grocery,Tier 1,Large,18.59,76.38,450
+Frozen,Grocery,Tier 1,Large,9.37,49.36,347
+Snacks,Supermarket Type2,Tier 1,Small,24.0,81.26,149
+Dairy,Grocery,Tier 2,Large,20.73,23.52,69
+Snacks,Supermarket Type2,Tier 3,Medium,6.79,107.75,251
+Dairy,Supermarket Type2,Tier 2,Small,13.35,65.34,227
+Dairy,Grocery,Tier 2,Large,22.58,59.43,483
+Dairy,Supermarket Type2,Tier 3,Large,23.89,74.45,494
+Beverages,Grocery,Tier 2,Large,14.35,78.73,317
+Dairy,Supermarket Type1,Tier 3,Medium,17.27,17.9,443
+Household,Grocery,Tier 3,Medium,8.34,85.09,110
+Dairy,Supermarket Type1,Tier 2,Small,24.82,36.61,185
+Beverages,Supermarket Type1,Tier 2,Small,9.63,88.53,188
+Produce,Supermarket Type2,Tier 1,Medium,23.85,100.48,230
+Beverages,Supermarket Type1,Tier 2,Large,17.99,98.44,269
+Frozen,Grocery,Tier 3,Medium,17.15,70.78,282
+Beverages,Supermarket Type1,Tier 1,Medium,15.25,67.22,401
+Beverages,Supermarket Type2,Tier 1,Large,9.61,25.72,93
+Frozen,Supermarket Type2,Tier 2,Small,8.53,95.29,180
+Frozen,Grocery,Tier 2,Small,9.41,39.86,22
+Household,Grocery,Tier 1,Large,8.73,64.64,375
+Household,Supermarket Type2,Tier 1,Medium,20.59,41.27,464
+Household,Supermarket Type1,Tier 1,Large,12.0,24.72,428
+Snacks,Supermarket Type1,Tier 1,Small,6.16,79.25,405
+Beverages,Supermarket Type2,Tier 1,Medium,24.38,15.98,403
+Dairy,Grocery,Tier 1,Small,22.68,92.35,110
+Household,Grocery,Tier 3,Small,23.56,44.93,275
+Frozen,Grocery,Tier 3,Small,24.9,10.01,467
+Produce,Grocery,Tier 2,Medium,8.48,66.22,323
+Frozen,Supermarket Type1,Tier 2,Large,12.92,15.15,171
+Produce,Supermarket Type1,Tier 2,Medium,20.16,40.38,17
+Household,Supermarket Type1,Tier 2,Large,18.92,87.77,341
+Dairy,Supermarket Type2,Tier 3,Large,8.08,16.9,36
+Household,Supermarket Type2,Tier 1,Large,21.32,102.33,397
+Snacks,Supermarket Type2,Tier 1,Small,9.49,10.42,44
+Household,Supermarket Type1,Tier 1,Medium,9.48,37.15,152
+Snacks,Grocery,Tier 3,Medium,15.74,91.5,222
+Beverages,Supermarket Type1,Tier 3,Medium,16.86,44.79,223
+Produce,Supermarket Type1,Tier 2,Large,16.6,21.21,473
+Dairy,Supermarket Type2,Tier 3,Medium,6.83,49.63,86
+Frozen,Grocery,Tier 1,Small,22.55,39.74,337
+Household,Grocery,Tier 2,Small,10.31,102.7,212
+Frozen,Supermarket Type2,Tier 1,Medium,7.59,44.47,205
+Produce,Supermarket Type2,Tier 3,Large,22.77,96.78,451
+Produce,Supermarket Type1,Tier 2,Medium,24.11,108.11,336
+Frozen,Grocery,Tier 1,Large,22.24,57.72,432
+Household,Supermarket Type1,Tier 2,Medium,21.19,110.09,42
+Household,Supermarket Type1,Tier 1,Small,18.1,51.5,215
+Beverages,Supermarket Type1,Tier 1,Small,16.02,116.05,448
+Produce,Supermarket Type2,Tier 1,Small,6.74,19.82,331
+Frozen,Supermarket Type2,Tier 3,Medium,13.17,85.57,253
+Snacks,Supermarket Type2,Tier 3,Small,12.45,64.32,231
+Snacks,Grocery,Tier 3,Medium,10.2,52.64,52
+Frozen,Supermarket Type2,Tier 3,Large,19.47,79.6,22
+Snacks,Supermarket Type1,Tier 3,Medium,14.92,87.42,404
+Dairy,Supermarket Type1,Tier 2,Small,6.62,10.48,443
+Beverages,Supermarket Type2,Tier 3,Large,9.4,28.36,299
+Produce,Supermarket Type2,Tier 3,Medium,18.67,88.44,200
+Household,Supermarket Type2,Tier 2,Small,6.52,83.3,191
+Dairy,Supermarket Type2,Tier 3,Small,22.02,116.27,349
+Beverages,Grocery,Tier 3,Large,14.9,93.71,228
+Household,Grocery,Tier 3,Large,14.61,114.58,322
+Beverages,Grocery,Tier 2,Large,16.85,87.28,492
+Frozen,Grocery,Tier 2,Medium,21.49,42.79,401
+Snacks,Grocery,Tier 2,Small,11.96,21.59,369
+Dairy,Supermarket Type2,Tier 1,Large,18.56,96.0,341
+Dairy,Supermarket Type1,Tier 1,Small,16.31,80.86,233
+Dairy,Supermarket Type1,Tier 1,Medium,10.34,15.3,394
+Frozen,Supermarket Type1,Tier 2,Small,22.57,49.61,471
+Frozen,Supermarket Type1,Tier 3,Medium,20.95,115.25,81
+Household,Supermarket Type2,Tier 3,Medium,18.17,65.04,192
+Beverages,Grocery,Tier 1,Large,22.01,57.6,350
+Beverages,Supermarket Type1,Tier 1,Large,22.35,60.35,274
+Beverages,Supermarket Type1,Tier 3,Small,19.17,32.98,99
+Household,Grocery,Tier 2,Large,21.74,50.56,314
+Frozen,Grocery,Tier 1,Large,18.95,50.68,136
+Snacks,Supermarket Type1,Tier 3,Small,18.6,15.76,43
+Household,Grocery,Tier 1,Large,17.37,94.43,76
+Dairy,Supermarket Type2,Tier 1,Medium,20.05,55.82,285
+Dairy,Supermarket Type1,Tier 3,Small,8.17,100.44,337
+Snacks,Supermarket Type1,Tier 3,Large,22.62,103.54,164
+Frozen,Supermarket Type1,Tier 1,Large,22.44,33.32,191
+Beverages,Supermarket Type2,Tier 3,Medium,5.58,82.31,490
+Dairy,Supermarket Type2,Tier 2,Small,21.52,61.95,195
+Snacks,Grocery,Tier 2,Small,7.58,106.82,426
+Frozen,Supermarket Type2,Tier 3,Large,11.7,33.73,124
+Dairy,Supermarket Type2,Tier 1,Small,19.87,84.56,224
+Frozen,Supermarket Type2,Tier 3,Large,8.22,76.85,57
+Beverages,Grocery,Tier 3,Small,21.36,42.48,226
+Dairy,Grocery,Tier 3,Small,21.64,25.03,455
+Household,Supermarket Type1,Tier 2,Large,15.15,81.68,416
+Beverages,Supermarket Type1,Tier 1,Large,5.13,91.25,135
+Snacks,Supermarket Type1,Tier 3,Medium,10.74,44.72,241
+Snacks,Grocery,Tier 3,Small,17.34,80.93,250
+Beverages,Supermarket Type2,Tier 1,Medium,24.62,53.46,230
+Snacks,Supermarket Type2,Tier 1,Medium,17.64,88.45,212
+Snacks,Grocery,Tier 1,Large,10.2,31.91,410
+Beverages,Supermarket Type2,Tier 2,Small,17.68,107.92,100
+Frozen,Supermarket Type2,Tier 1,Large,15.8,41.62,426
+Snacks,Grocery,Tier 1,Medium,20.6,50.46,204
+Dairy,Supermarket Type2,Tier 3,Medium,7.14,16.39,251
+Frozen,Supermarket Type1,Tier 3,Small,20.22,22.27,76
+Household,Supermarket Type2,Tier 2,Large,15.83,66.74,322
+Produce,Supermarket Type2,Tier 2,Medium,24.26,39.44,189
+Frozen,Grocery,Tier 3,Large,11.84,101.9,10
+Beverages,Grocery,Tier 2,Small,17.65,11.62,210
+Produce,Supermarket Type2,Tier 1,Small,23.64,51.7,36
+Beverages,Grocery,Tier 2,Large,7.05,47.11,103
+Beverages,Supermarket Type2,Tier 2,Small,23.74,12.13,398
+Produce,Supermarket Type2,Tier 2,Small,18.76,23.68,391
+Produce,Grocery,Tier 3,Large,6.36,55.5,260
+Household,Supermarket Type2,Tier 3,Medium,11.02,64.22,191
+Household,Grocery,Tier 3,Small,19.16,54.47,80
+Frozen,Grocery,Tier 2,Medium,6.35,68.4,181
+Dairy,Supermarket Type2,Tier 3,Large,16.64,75.46,319
+Beverages,Supermarket Type1,Tier 3,Medium,11.92,11.09,291
+Beverages,Grocery,Tier 1,Large,17.42,61.05,353
+Snacks,Supermarket Type1,Tier 1,Medium,5.91,115.98,259
+Frozen,Supermarket Type1,Tier 2,Medium,22.43,67.09,329
+Household,Supermarket Type1,Tier 1,Small,24.47,84.53,194
+Frozen,Supermarket Type1,Tier 3,Large,24.38,44.31,312
+Produce,Supermarket Type1,Tier 2,Large,19.99,95.14,349
+Beverages,Grocery,Tier 2,Small,7.6,95.02,131
+Produce,Grocery,Tier 2,Large,20.17,67.34,429
+Snacks,Supermarket Type1,Tier 2,Medium,5.49,117.36,291
+Household,Supermarket Type2,Tier 3,Large,5.44,23.81,258
+Household,Grocery,Tier 1,Medium,11.47,11.86,217
+Dairy,Supermarket Type1,Tier 3,Large,14.77,94.72,254
+Snacks,Grocery,Tier 3,Small,20.41,98.79,88
+Dairy,Supermarket Type2,Tier 2,Large,18.67,23.22,491
+Snacks,Grocery,Tier 3,Large,13.92,39.21,387
+Snacks,Supermarket Type1,Tier 1,Small,10.47,11.93,410
+Household,Supermarket Type1,Tier 1,Small,24.94,42.26,392
+Beverages,Grocery,Tier 2,Medium,13.52,95.05,17
+Household,Supermarket Type2,Tier 1,Large,14.03,66.98,49
+Produce,Supermarket Type2,Tier 2,Medium,8.27,48.29,131
+Dairy,Supermarket Type1,Tier 1,Small,20.9,50.89,430
+Frozen,Supermarket Type2,Tier 2,Medium,18.87,10.15,118
+Frozen,Supermarket Type2,Tier 1,Small,9.42,42.98,437
+Frozen,Supermarket Type1,Tier 2,Large,6.65,81.11,280
+Snacks,Grocery,Tier 2,Small,18.61,117.16,209
+Beverages,Supermarket Type1,Tier 2,Medium,18.09,103.18,341
+Snacks,Supermarket Type2,Tier 2,Large,10.47,12.6,442
+Household,Grocery,Tier 1,Small,24.02,108.84,424
+Frozen,Grocery,Tier 3,Medium,8.02,96.15,485
+Household,Supermarket Type1,Tier 2,Medium,13.65,95.84,389
+Snacks,Supermarket Type1,Tier 3,Large,23.87,60.38,403
+Frozen,Supermarket Type2,Tier 1,Large,13.39,53.78,465
+Dairy,Grocery,Tier 1,Medium,17.77,43.32,277
+Frozen,Supermarket Type2,Tier 1,Small,12.95,17.23,412
+Frozen,Supermarket Type2,Tier 2,Medium,10.48,35.11,62
+Dairy,Supermarket Type2,Tier 1,Small,24.68,37.13,332
+Produce,Grocery,Tier 1,Large,13.19,63.25,223
+Household,Supermarket Type1,Tier 1,Large,22.88,92.22,113
+Household,Grocery,Tier 1,Small,9.6,62.12,283
+Household,Supermarket Type2,Tier 2,Small,9.26,16.36,178
+Produce,Grocery,Tier 2,Medium,5.62,115.36,332
+Household,Supermarket Type1,Tier 1,Small,18.03,113.7,268
+Beverages,Grocery,Tier 3,Medium,12.37,96.37,319
+Beverages,Grocery,Tier 1,Small,22.29,119.05,478
+Dairy,Supermarket Type1,Tier 3,Large,14.46,69.89,115
+Snacks,Grocery,Tier 1,Large,24.36,115.9,191
+Snacks,Supermarket Type1,Tier 2,Large,8.71,18.32,273
+Beverages,Supermarket Type1,Tier 3,Small,22.37,50.22,427
+Household,Supermarket Type1,Tier 3,Medium,20.53,34.79,233
+Snacks,Supermarket Type1,Tier 2,Large,20.42,31.54,160
+Dairy,Supermarket Type2,Tier 3,Large,21.9,25.49,477
+Beverages,Grocery,Tier 3,Medium,20.22,78.47,193
+Frozen,Supermarket Type2,Tier 1,Large,17.52,95.95,276
+Beverages,Supermarket Type2,Tier 2,Medium,7.62,73.61,379
+Produce,Grocery,Tier 2,Medium,5.65,26.17,6
+Produce,Grocery,Tier 2,Medium,23.42,99.22,250
+Household,Supermarket Type1,Tier 3,Large,17.33,79.96,214
+Household,Grocery,Tier 1,Small,20.93,52.7,405
+Dairy,Supermarket Type1,Tier 3,Large,14.63,84.15,290
+Household,Supermarket Type2,Tier 2,Small,7.35,38.59,363
+Frozen,Supermarket Type2,Tier 2,Small,7.5,47.97,17
+Produce,Supermarket Type2,Tier 2,Medium,18.71,110.92,100
+Dairy,Grocery,Tier 2,Small,13.61,41.96,225
+Frozen,Supermarket Type1,Tier 2,Large,9.01,61.7,242
+Household,Supermarket Type2,Tier 2,Medium,14.83,107.92,98
+Snacks,Supermarket Type2,Tier 3,Large,6.28,87.85,342
+Dairy,Grocery,Tier 1,Large,16.64,16.84,273
+Beverages,Supermarket Type1,Tier 1,Small,10.38,26.2,175
+Beverages,Grocery,Tier 1,Large,20.95,10.86,473
+Beverages,Supermarket Type1,Tier 3,Large,11.21,79.4,98
+Produce,Grocery,Tier 3,Small,14.1,59.24,153
+Dairy,Supermarket Type2,Tier 1,Large,5.23,24.77,116
+Frozen,Supermarket Type2,Tier 2,Large,6.45,115.37,59
+Household,Grocery,Tier 2,Large,12.85,68.26,341
+Snacks,Supermarket Type2,Tier 1,Small,14.6,36.61,428
+Snacks,Supermarket Type2,Tier 3,Medium,17.0,65.07,471
+Dairy,Supermarket Type1,Tier 2,Medium,10.83,84.76,120
+Dairy,Supermarket Type2,Tier 3,Medium,18.9,18.39,147
+Household,Supermarket Type1,Tier 2,Small,22.2,40.22,205
+Beverages,Supermarket Type2,Tier 3,Medium,20.6,98.77,184
+Dairy,Grocery,Tier 3,Small,5.79,60.56,206
+Snacks,Grocery,Tier 2,Large,14.61,70.12,368
+Dairy,Grocery,Tier 1,Small,7.1,57.61,483
+Dairy,Supermarket Type2,Tier 2,Large,9.84,14.83,57
+Household,Grocery,Tier 1,Small,24.73,28.23,475
+Frozen,Supermarket Type1,Tier 1,Small,7.85,59.01,388
+Household,Supermarket Type1,Tier 3,Medium,14.98,33.01,184
+Beverages,Supermarket Type2,Tier 2,Large,17.36,15.5,418
+Beverages,Grocery,Tier 2,Medium,19.05,102.8,421
+Frozen,Grocery,Tier 2,Large,16.19,117.93,317
+Snacks,Grocery,Tier 3,Small,5.2,97.25,312
+Frozen,Supermarket Type2,Tier 1,Large,11.53,103.92,141
+Household,Supermarket Type2,Tier 1,Small,15.35,36.62,186
+Produce,Supermarket Type2,Tier 1,Medium,6.76,115.67,371
+Produce,Grocery,Tier 1,Small,12.01,31.66,5
+Dairy,Grocery,Tier 1,Large,5.66,114.66,48
+Household,Grocery,Tier 1,Small,6.57,119.43,231
+Beverages,Grocery,Tier 2,Small,12.94,88.29,335
+Dairy,Supermarket Type2,Tier 1,Medium,7.65,117.93,102
+Produce,Supermarket Type1,Tier 2,Medium,16.35,72.65,212
+Frozen,Grocery,Tier 3,Medium,18.79,38.55,269
+Dairy,Grocery,Tier 2,Small,21.01,58.07,292
+Household,Supermarket Type1,Tier 2,Large,9.0,75.29,275
+Produce,Supermarket Type1,Tier 3,Large,8.35,18.04,144
+Snacks,Supermarket Type1,Tier 2,Medium,7.09,78.46,485
+Dairy,Supermarket Type2,Tier 1,Small,17.73,117.93,241
+Frozen,Grocery,Tier 1,Medium,19.13,30.91,466
+Frozen,Grocery,Tier 3,Large,5.63,97.19,445
+Frozen,Grocery,Tier 2,Large,23.72,109.87,396
+Frozen,Grocery,Tier 3,Large,6.04,113.81,76
+Frozen,Grocery,Tier 3,Large,15.83,115.61,159
+Frozen,Supermarket Type2,Tier 1,Small,19.18,67.36,194
+Household,Supermarket Type2,Tier 1,Large,22.42,117.5,272
+Household,Supermarket Type2,Tier 1,Medium,19.28,93.3,325
+Dairy,Grocery,Tier 1,Small,21.03,27.78,111
+Dairy,Supermarket Type2,Tier 3,Large,11.79,62.46,236
+Dairy,Grocery,Tier 2,Small,21.3,89.02,46
+Snacks,Grocery,Tier 1,Large,6.6,37.21,194
+Snacks,Grocery,Tier 2,Small,22.9,80.47,375
+Produce,Supermarket Type1,Tier 3,Small,15.95,83.33,143
+Dairy,Supermarket Type1,Tier 1,Large,21.35,27.9,107
+Snacks,Supermarket Type2,Tier 1,Medium,14.05,72.16,175
+Beverages,Grocery,Tier 1,Large,17.87,94.88,355
+Beverages,Supermarket Type2,Tier 2,Medium,15.53,64.88,277
+Produce,Grocery,Tier 3,Medium,19.63,11.33,485
+Beverages,Supermarket Type1,Tier 1,Small,6.63,10.99,420
+Frozen,Supermarket Type1,Tier 1,Large,6.21,49.27,225
+Produce,Supermarket Type2,Tier 1,Medium,9.94,111.88,217
+Produce,Grocery,Tier 2,Small,8.19,35.15,345
+Beverages,Supermarket Type1,Tier 1,Medium,22.44,79.78,428
+Dairy,Supermarket Type2,Tier 3,Medium,9.38,34.43,411
+Frozen,Grocery,Tier 1,Medium,24.52,45.38,60
+Beverages,Grocery,Tier 2,Small,11.74,103.28,394
+Dairy,Supermarket Type2,Tier 3,Small,8.64,90.17,346
+Beverages,Supermarket Type2,Tier 1,Large,20.79,20.49,438
+Frozen,Grocery,Tier 2,Small,18.17,57.16,106
+Frozen,Supermarket Type2,Tier 3,Large,14.96,13.21,425
+Frozen,Supermarket Type1,Tier 2,Medium,16.11,62.9,497
+Beverages,Supermarket Type1,Tier 1,Medium,19.38,82.87,196
+Dairy,Supermarket Type1,Tier 2,Medium,9.57,23.04,314
+Dairy,Supermarket Type1,Tier 3,Medium,24.93,41.78,204
+Frozen,Grocery,Tier 3,Small,24.5,53.76,237
+Snacks,Supermarket Type2,Tier 1,Medium,18.01,111.15,437
+Dairy,Grocery,Tier 2,Large,8.99,119.26,231
+Snacks,Grocery,Tier 2,Large,18.6,14.94,375
+Frozen,Supermarket Type2,Tier 2,Medium,6.44,93.71,143
+Dairy,Supermarket Type1,Tier 2,Small,5.61,50.89,348
+Household,Grocery,Tier 2,Small,10.15,53.17,309
+Snacks,Supermarket Type2,Tier 2,Large,14.25,92.97,153
+Frozen,Supermarket Type2,Tier 1,Small,22.37,111.03,119
+Dairy,Grocery,Tier 2,Small,19.54,114.6,454
+Produce,Grocery,Tier 2,Medium,19.85,73.48,67
+Dairy,Supermarket Type1,Tier 3,Large,13.51,49.28,108
+Produce,Grocery,Tier 2,Large,11.92,96.63,343
+Produce,Supermarket Type1,Tier 2,Small,12.42,37.61,363
+Dairy,Supermarket Type2,Tier 1,Medium,24.75,72.05,160
+Snacks,Supermarket Type1,Tier 1,Medium,5.8,49.44,277
+Dairy,Grocery,Tier 1,Small,22.34,82.23,10
+Household,Supermarket Type2,Tier 3,Large,16.57,36.44,151
+Produce,Grocery,Tier 3,Large,13.77,31.08,188
+Frozen,Grocery,Tier 2,Small,19.51,111.01,490
+Frozen,Grocery,Tier 2,Large,14.73,21.2,32
+Beverages,Grocery,Tier 1,Large,22.47,65.66,454
+Snacks,Supermarket Type2,Tier 3,Large,23.01,34.29,42
+Household,Grocery,Tier 3,Medium,13.43,14.28,123
+Produce,Supermarket Type1,Tier 2,Small,10.54,13.96,297
+Household,Grocery,Tier 1,Small,16.85,29.27,375
+Beverages,Grocery,Tier 2,Small,23.25,105.34,248
+Produce,Supermarket Type1,Tier 1,Small,9.21,41.07,72
+Produce,Supermarket Type1,Tier 1,Small,17.46,114.55,218
+Snacks,Grocery,Tier 1,Small,17.63,73.98,222
+Frozen,Grocery,Tier 2,Small,19.66,58.03,181
+Snacks,Grocery,Tier 2,Medium,7.63,73.81,303
+Produce,Grocery,Tier 2,Small,19.32,66.84,168
+Beverages,Supermarket Type2,Tier 2,Small,23.18,93.47,62
+Dairy,Supermarket Type1,Tier 1,Medium,8.59,41.07,273
+Produce,Supermarket Type1,Tier 3,Medium,9.75,48.84,312
+Snacks,Supermarket Type2,Tier 2,Medium,24.43,108.35,62
+Dairy,Supermarket Type2,Tier 2,Small,8.62,114.11,292
+Dairy,Supermarket Type2,Tier 1,Small,22.09,108.18,469
+Beverages,Supermarket Type2,Tier 2,Large,14.85,56.14,109
+Beverages,Supermarket Type1,Tier 1,Medium,9.94,95.84,232
+Household,Supermarket Type1,Tier 3,Medium,22.41,62.4,251
+Snacks,Supermarket Type1,Tier 3,Small,13.91,64.73,192
+Produce,Supermarket Type2,Tier 3,Medium,15.3,32.51,498
+Dairy,Supermarket Type1,Tier 3,Small,12.18,75.02,87
+Beverages,Supermarket Type1,Tier 1,Small,16.86,30.47,190
+Produce,Grocery,Tier 3,Large,8.27,46.47,256
+Produce,Grocery,Tier 3,Large,12.82,104.05,359
+Household,Grocery,Tier 2,Small,24.39,32.78,242
+Frozen,Supermarket Type2,Tier 3,Large,10.16,17.83,364
+Beverages,Supermarket Type2,Tier 1,Medium,18.13,17.59,188
+Snacks,Grocery,Tier 1,Small,11.5,113.49,288
+Frozen,Supermarket Type2,Tier 2,Large,20.47,65.76,389
+Frozen,Supermarket Type1,Tier 2,Large,7.62,55.04,430
+Beverages,Supermarket Type2,Tier 1,Medium,24.4,99.2,214
+Frozen,Supermarket Type2,Tier 2,Small,14.08,101.94,308
+Dairy,Supermarket Type2,Tier 1,Medium,9.72,46.54,300
+Beverages,Grocery,Tier 1,Large,6.47,86.3,101
+Beverages,Supermarket Type1,Tier 1,Medium,8.4,94.82,451
+Snacks,Grocery,Tier 2,Large,15.4,82.01,464
+Produce,Supermarket Type2,Tier 1,Large,11.74,26.68,460
+Household,Supermarket Type2,Tier 1,Large,21.58,106.35,476
+Frozen,Grocery,Tier 1,Small,13.62,69.3,212
+Household,Supermarket Type2,Tier 3,Medium,9.97,41.07,374
+Beverages,Grocery,Tier 3,Small,17.34,56.78,392
+Snacks,Supermarket Type2,Tier 1,Medium,19.14,14.13,426
+Snacks,Supermarket Type2,Tier 1,Large,8.34,24.07,496
+Beverages,Supermarket Type1,Tier 2,Medium,8.35,94.21,415
+Dairy,Supermarket Type2,Tier 2,Small,5.73,10.0,141
+Frozen,Supermarket Type2,Tier 1,Small,19.73,55.82,371
+Dairy,Grocery,Tier 3,Medium,18.28,67.48,404
+Beverages,Supermarket Type1,Tier 3,Medium,14.49,16.01,188
+Produce,Supermarket Type2,Tier 2,Small,21.88,117.04,80
+Household,Supermarket Type2,Tier 3,Large,21.11,34.87,291
+Beverages,Supermarket Type2,Tier 1,Small,16.71,43.46,476
+Household,Grocery,Tier 3,Small,22.37,43.43,379
+Snacks,Supermarket Type2,Tier 3,Medium,9.12,35.35,146
+Beverages,Supermarket Type2,Tier 1,Medium,7.24,10.16,241
+Dairy,Supermarket Type1,Tier 3,Large,10.39,90.23,29
+Household,Supermarket Type1,Tier 1,Small,6.14,116.35,294
+Snacks,Grocery,Tier 2,Medium,15.62,34.67,71
+Dairy,Supermarket Type2,Tier 1,Small,23.73,82.94,254
+Household,Supermarket Type2,Tier 3,Small,5.79,91.61,412
+Beverages,Supermarket Type1,Tier 3,Medium,7.44,103.33,122
+Produce,Grocery,Tier 3,Large,14.04,56.49,494
+Beverages,Supermarket Type1,Tier 1,Large,23.68,43.32,77
+Household,Grocery,Tier 3,Medium,11.32,45.78,286
+Household,Grocery,Tier 1,Small,15.14,88.39,408
+Produce,Grocery,Tier 3,Large,5.83,99.85,452
+Household,Supermarket Type1,Tier 2,Medium,7.97,29.98,364
+Dairy,Grocery,Tier 3,Medium,24.73,50.8,14
+Dairy,Supermarket Type2,Tier 1,Small,24.3,109.21,215
+Household,Grocery,Tier 2,Medium,5.1,98.74,327
+Produce,Grocery,Tier 3,Large,24.04,118.33,156
+Snacks,Supermarket Type2,Tier 2,Large,17.78,92.97,9
+Beverages,Supermarket Type2,Tier 3,Small,22.36,53.25,199
+Frozen,Supermarket Type2,Tier 2,Large,14.09,74.97,446
+Dairy,Grocery,Tier 3,Medium,15.31,82.71,287
+Frozen,Grocery,Tier 1,Large,14.78,18.63,468
+Household,Supermarket Type1,Tier 1,Large,18.34,69.89,117
+Frozen,Supermarket Type2,Tier 2,Small,7.79,88.03,275
+Frozen,Supermarket Type2,Tier 1,Large,5.6,28.41,167
+Snacks,Supermarket Type2,Tier 3,Large,11.16,95.87,464
+Beverages,Supermarket Type2,Tier 2,Medium,19.09,74.22,109
+Household,Supermarket Type2,Tier 1,Large,9.04,114.74,185
+Frozen,Supermarket Type1,Tier 2,Small,18.47,14.67,48
+Snacks,Supermarket Type2,Tier 1,Medium,24.4,39.19,286
+Frozen,Supermarket Type1,Tier 3,Small,6.88,76.17,179
+Dairy,Grocery,Tier 3,Small,18.45,42.62,166
+Frozen,Grocery,Tier 1,Medium,13.88,88.59,475
+Household,Grocery,Tier 1,Large,22.36,93.49,355
+Frozen,Grocery,Tier 2,Large,8.54,21.28,438
+Beverages,Supermarket Type2,Tier 1,Small,18.85,66.52,344
+Frozen,Supermarket Type2,Tier 1,Large,21.76,65.98,144
+Dairy,Supermarket Type2,Tier 1,Large,23.89,50.62,475
+Snacks,Supermarket Type1,Tier 1,Small,18.66,112.62,136
+Beverages,Grocery,Tier 3,Medium,14.94,101.03,91
+Snacks,Supermarket Type2,Tier 1,Large,17.36,86.69,180
+Beverages,Supermarket Type2,Tier 1,Medium,22.38,88.58,187
+Produce,Supermarket Type2,Tier 3,Medium,16.41,60.79,372
+Household,Supermarket Type2,Tier 2,Large,5.61,111.31,133
+Produce,Grocery,Tier 2,Large,23.62,86.41,250
+Household,Supermarket Type1,Tier 2,Small,18.79,90.19,93
+Snacks,Grocery,Tier 1,Small,18.53,104.79,70
+Frozen,Grocery,Tier 1,Medium,9.31,40.15,162
+Snacks,Supermarket Type2,Tier 1,Medium,18.18,98.78,391
+Dairy,Grocery,Tier 2,Small,12.88,31.48,382
+Frozen,Supermarket Type2,Tier 3,Large,18.02,47.99,153
+Produce,Supermarket Type2,Tier 3,Large,7.13,46.92,477
+Snacks,Supermarket Type2,Tier 2,Small,18.16,117.64,344
+Beverages,Supermarket Type1,Tier 1,Medium,24.99,104.22,437
+Dairy,Supermarket Type2,Tier 2,Medium,5.96,87.13,120
+Produce,Supermarket Type2,Tier 3,Small,24.54,89.98,218
+Frozen,Grocery,Tier 3,Small,13.14,71.83,473
+Produce,Supermarket Type1,Tier 1,Small,22.42,114.18,450
+Dairy,Supermarket Type2,Tier 1,Large,20.65,64.59,485
+Produce,Supermarket Type2,Tier 3,Large,16.34,51.86,376
+Dairy,Grocery,Tier 3,Medium,19.77,27.93,298
+Dairy,Supermarket Type1,Tier 3,Medium,22.57,96.48,257
+Produce,Supermarket Type2,Tier 3,Large,13.08,90.79,147
+Household,Grocery,Tier 2,Medium,11.54,52.28,254
+Frozen,Supermarket Type2,Tier 1,Medium,18.35,12.77,370
+Frozen,Grocery,Tier 3,Large,21.16,102.29,440
+Beverages,Supermarket Type2,Tier 2,Small,20.25,11.26,467
+Household,Grocery,Tier 1,Small,20.96,87.41,306
+Frozen,Supermarket Type2,Tier 3,Small,13.71,116.73,29
+Household,Grocery,Tier 2,Large,21.36,58.14,281
+Snacks,Supermarket Type2,Tier 2,Small,7.4,35.85,476
+Beverages,Supermarket Type1,Tier 1,Large,15.89,87.54,381
+Household,Supermarket Type2,Tier 3,Medium,5.12,99.88,382
+Snacks,Supermarket Type1,Tier 1,Medium,11.49,70.11,393
+Household,Grocery,Tier 1,Large,12.33,116.37,74
+Dairy,Grocery,Tier 2,Medium,12.92,15.68,117
+Frozen,Grocery,Tier 3,Medium,18.91,65.53,367
+Dairy,Grocery,Tier 1,Large,12.77,89.03,116
+Beverages,Grocery,Tier 3,Small,13.97,104.89,368
+Produce,Grocery,Tier 3,Medium,9.75,29.72,307
+Dairy,Supermarket Type1,Tier 2,Medium,12.47,98.0,475
+Produce,Supermarket Type2,Tier 1,Large,9.55,70.8,456
+Snacks,Supermarket Type2,Tier 1,Small,6.46,53.62,95
+Produce,Supermarket Type2,Tier 1,Small,17.07,24.49,22
+Produce,Supermarket Type1,Tier 1,Small,18.36,105.18,153
+Beverages,Supermarket Type1,Tier 2,Large,17.39,27.3,480
+Household,Supermarket Type1,Tier 1,Small,14.27,44.08,231
+Dairy,Grocery,Tier 2,Small,12.6,41.91,218
+Frozen,Supermarket Type1,Tier 2,Small,22.27,105.86,364
